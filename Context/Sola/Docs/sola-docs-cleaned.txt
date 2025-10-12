@@ -1,0 +1,1044 @@
+Sola Docs1Getting Started2Welcome From secturiy questions to solutions in minutesSola is an AI-powered secturiy solutcomplete secturiy system, andutionhatconnects to yoncovers what matters most.
+
+ur tech stack, automatically builds your How can we help?
+
+Ask you r question inth e s e a r ch a bov e, a nd ou r AI a s s ist a nt w ill guid e you .uQ No fluickstartff, just actionsSoBula AIild your secturiy app, fast What's NewStayup to date Data Sources Plug in your data ConnectorstcAon findings FAQsYou're in good company Security and Privacy We practice what we preach App GallerytStart wih a templateGlossary Jargon, decoded3uQickstart Create your own secturiy solutionsSotla makes ieasyto get secturiy done, your way. Follow these steps to get up and running.tSep-by-step gu1ide Connectyour data soYou’ll needthem to answer yourcesur questions.
+
+Don’thave access to connectyour data now?
+
+Skip this step and complete it later.2uBild yotur app wih Sola AI Describe your secturiy challenge in yocomplette wih queries, alerts and dashboards.
+
+ur workspace home. Sola AI will build an app for you, Protip: Use our ready-made prompts to easily get started.
+
+43 Explore triggered alerts and canvases in yo See whatSola uncovered, and start reviewingto investigate and resour applve issues.
+
+5Overviewt Securiy is now simple Welcometo Sola!Sosola is anlutions in min AI-powered cybersecturiy platform that allows practtiioners of all skill levels generate secturiyutes.
+
+Here youcan creattehe secturiy spacethatuyoneed.Answer secturiy questions From everyday risks tolarge-scalethreats, every secturiy so Create your own secturiy solution by asking questions.
+
+luttion begins wih a question.
+
+Cover missing secturiy gapst Even withhe best-of-breed secturityools, there’s always goingto be a missing piece!
+
+Create your own secturiy solution by defining what's missing.
+
+Discover expertu-bilt secturiy solutionsYoudon’thaveto startfrom scratch.
+
+Create yoyour needs.
+
+ur own secturiy solution byusing ready-to-use secturiy apps, and customizethem tto fi This is w h e r e Sol a com e s in.Sotoola provides yotu wih a stul. Atll wihin an easytodiouse, coto get answers to yollaborative environmenur secturiy questions, and but thatincorporates AI tooild yols throur custom secturiyughout.
+
+6How to create a Sola app How to create a Sola app How to build a Sola app How Sola worksSola users create and customizetheir ownlarge-scale secturiy solutions have.unique secturiy solutions ttheir way, wihout any barriers that As parttofhe Souse cases.
+
+la studio, Sola apps areusedto create custom secturiy solutions for specific secturiy Apps are composed of 4 building blocks.uQeries for data inqusecturiy questions.
+
+iry. Use queries to create, view, and share data insights that answer your cyber Canvases for data visualization. Create canvases to buthatdisplay your insights and results in easy-to-uild dashboards, reports, and innderstand tables, charts, and graphs.teractive viewsAtlerts for monioring and alert rules. Convertyoand gettnoified when importantevents occur.
+
+ur important questions into alerts totrack security risks Workflows for automation and remediation. Amanual effort.utomate secturiy actions to respond faster and reduce7Create secturiy solutions, your way8Sola AIuBild secturiy soluttions wih AI secturiy expertise The intelligence behind yoSola AI is your built-in secturiy expert. Use it tocustom secturiy apps.uur secturiy appsncover secturiy risks, generate insights, and buildSola AI guides you as youexplore your environment, anduncover what matters most.uBtild apps wih Sola AI Suggested queries from Sola AIuBild secturiy appstStart wih a secturiy concern and get a working app, complette wih qutailoredto your use case, in minutes.
+
+eries, dashboards, and alerts How it worksGoubto your workspace home and submit a promptdescribing yoilding a new custom app automatically and navigate you to it.
+
+ur secturiy challenge. Sola will startSo Use ola AI prompt tipur ready-made prompts to easily get started.Oconnce your app is ready, you’ll see a full summary of what tthe app moniors, why it matters, the secturiytext, and key secturiy insights from your environment.
+
+9Build an app for your secturiy needs Gain deeper insights into your secturiy posture Each app includes a dedicated Sola AI copilot to help youinvestigate yosecturiy risks, gaps, and exposures across your app data sources. Soinsights to help you utnderstand and prioriize remediation.
+
+ur environment anduncoverla AI provides detailed, actionable How it worksGoto your app, and ask a secturiy qudetailed insights about what was detinsights.
+
+estion. Sola AI will analyze yoteced, why it matters, andthe quur connected data and provideeries usedto generattehese1Key secturiy insights from your environment Graph-enhanced research Uncover deep insightts wih graph research, an advanced reasoning mode in Sola AI that maps therelationships between resources, controls, and risks across your connected data. It provides complete,grounded answers to complex questions, backed by visual evidence and contextual analysis.
+
+Graph research mode in AI copilot Graph research visual representation Expand yotur apps wih new quand workflowseries, canvases, alerts, Grow your app, one prompt at a time.
+
+11Usethe Soallows yola copilot to generate new queries, alerts, and canvases directtly wihin any existing app. Thisu to add more coverage, track new risks, or build purpose-specific viewsSola AI prompt tip Ask specifically for the queries, alerts, or dashboards you want to build.
+
+For example: “Create a dashboard for my executiveteam tthat summarizes open critical vulnerabiliies.” How it worksGoto your app and describe whatuyocreattehe new resources based on yoneed, such as an insight, alertur prompt, and addthem for yo Asking for canvases or alerts also creates the required queries.
+
+Usethis to:flow, or dashboard. Sou.
+
+la AI willu• Bild multiple canvases in a single prompt. For example: "Create a comprehensive secturiydashboard for my CISO, and a high-levelone for my CEO"• Keep everything youneed in one app.• Adduse-case-specific dashboards for different teams.
+
+For example: DevOps, Engineering, Executives• Expand existing apps as your risk coverage grows.ASola AI in queriesccess Sotla AI from wihin any query inthe queries tab to explain, refine, or optimize individual queries as youubild. Itcan help youttidenifyhe right tables and columns thatcontainthe data youneed or refine SQL syntaxfor more accurate results.
+
+12Graph Researcht AI wihutnparalleled visibiliy into your environment Graph research is an advanced reasoning mode in Soand connections between resources, secturiy controla AI. Inthis mode, Sols, and risks across yola AI maps the relationshipsur app data sources.
+
+It uses Socomplex qula’s proprietary security graph based analysis infrastructure and framework, to answeresttions wih a holistic view, contextualized data, and visually-backed responses.
+
+This allows Sola to surface deep insights, providing:• Enterprise-grade reasoning - Responses are groexpertise.
+
+• Valuable insights for complex cross-environmenrelationships across enttiies and controls.
+
+• Security intelligence built-in - Combines conexposure paths, and misconfigurations.
+
+• Natural conversation, intugenerate a visual represenunded in a secturiy graph builtfrom Sola’s domaint analysis - Each insightis traceabletotextt-aware reasoning wih proven knowledge of risk,tiive results - Ask your secturiy question, Sotation of your assets, identtiies, and secturiy conla AI will analyze, map andtrols.
+
+Graph research mode in AI copilot Graph research visual representation Whatgraph research reveals Graph research goes beyond basic analysis to provide yotu wih contwith addiional insights that are based on your connected data.textual, robust, precise responses, Each answer is complete and grobetween assets and controls.unded in real secturiy context, validatedthrough identified connections13• Connection insights - Surface previouslyunseen connections and dependencies between differenttypes of environments and assets• Toxic combinations - Detect risky interdependencies across platforms (e.g. overly permissiveGitHutb access combined wih exposed AWS assets).
+
+• Blast radius for critical issues - Understandthe full scope of impactfrom a single misconfigurationor compromised enttiy.
+
+• Security impacton infrastructure - Trace how issues in one partof your environment affectservices, workloads, andteams elsewhere.
+
+Visual representation of graph researchSola AI provides a visual representation of relationships between assets and secturiy con The response includes a dynamic visual graphthatillustrates:• How different systems, users, and controls are connected• Where risks originate and how they can spread• Which assets are impacted and how they relatteo one anothertrols.
+
+How it works Whenthe graph research mode is enabled, Sola AI automatically decides whento activate it.
+
+For simple queries like “Who are my adminsystem questions, Sola turns to graph researchknowledge and contextual data.
+
+users?”, standard analysis is enough. For deeper, cross-to generate an accurate response grounded in secturiy14Sola’s graph is builtfrom proprietary knowledge of cybersecturity archiecture and risk patterns, thatmaps the connections between a wide range of asset types, secturiy controls, andtheir relationships.t This knowledge is combined wih your organization’s connected data sources to create a graph of real-time enttiies (such as users, roles, buckets, workloads, and more) and secturiy controls (such as IAM,access levels, encryption, MFA, and more).
+
+When analyzing a question, Sola AI:• Identifies relevant asset types.
+
+• Discovers meaningful relationships and connections across systems.
+
+• Generates groundedtraceable insights based on enttiy interconnections.
+
+FAQs Whatis graph research in Sola AI?
+
+Graph research is an advanced reasoning mode in Sottideniies, and secturiy controls. Itgenerates conand dependencies connect across your environmenla AI that analyzes relationships between assets,textual answers based on how risks, misconfigurations,t.
+
+When is graph research activated?
+
+Graph research activates automatically when Sosystem reasoning. For example, it may come inmy AWS and GitHub andtheir relationship?”la AI determines that a question requto playto answer questions like “Whatires deeper, multi-issues exist across What makes graph research differentfrom regular analysis?
+
+Graph research leverages Sola’s proprietary secturiy graphthat maps enttiy relationships, revealingpaths of risk, cross-platform dependencies, and high-impact secturiy controls.
+
+Can I turn off graph research?
+
+Graph research is an optional mode. You Disabling Graph Research helps keep responses qutcan enable or disable ifrom the Soick when deep reasoning isn’tla AI copiltochat.
+
+necessary.
+
+15Prompt Guide Tips, ideas, and best practices for butilding wih Sola AISoconla AI helps youubild, explore, and investigate your secturiy posture. Atexttineeds to deliver the rightoutput, fastter and wih better focus.
+
+clear promptgives Sola the This guide explains how tto wrie effective prompts for Sola AI. It shares practical tips and examples,drawn from real usage inthe field, to help youtttgebeer results.
+
+For now, the focus is on building canvases with Sola AI. More best practices will be added over time.
+
+Prompting with Sola AI is a collaborative process.tStart wih a clear directtion, refine wih foright app, canvas, or insight.llow-ups, andusethe recommendations Sola provides to shapethe How tousethis guide Prompting in Sola AI can serve differentgoals, from creating new apps, to buinvestigating risks, and creating workflows.
+
+This first version focuses on canvas best practices. The recommendations are nouyocan apply as neededto getttbeer results.
+
+ilding canvases, tot strict rules, but tips Canvas best practices These best practices are grouped intothreethemes: Start, Refine, Expand, and Troubleshoot.
+
+1. Startt Begin wih broad prompts to set the direction.Start Provide Soneeds.
+
+For example,broad, tthen ieratetla AI wih a general theme and refine your prompt step-by-step until the output matches your16• “What are mytop AWS secturiy issu• “Show me insights on GitHues?”b access risks.” Keep prompts short and cleartSola AI works best wih concise prompts. While prompts can beare more effective and easier to refine.
+
+up to ~3000characters, shorter inputs For example:• Less effective: “Creatte a canvas wih detailed breakdowns of all services, including every AWSaccount,Okta user, GitHutb repo, permissions, vulnerabiliies, and historical changes…”tt• Beer: “Show me mytop AWS secturiy issues, grouped by accoutnt, wih a chartof failed logins.” Reference your datatStart wih referencing specific qudata.
+
+For example,“Create a canvas based onthe queries and ask Sola AI to create a canvas based onthese queries or apperies for inactive Okta users and failed logins.” As a best practice, before starting a new canvas, make sure relevant quubild. If any are missing, Sola AI will complettehem automatically as parteries already existfor whattofhe canvas creation.you want to2. Refine Shape Sola’s output to better match your needs.
+
+Add layout and structure early Include any layoutor stylethatuyoyou setexpectations, the better Sohave in mind as early as possible, even inla can match your vision.the first prompt. The earlier For example,• “Show me mytop AWS secturiy issu Trek themed.”tes, spliinto sub-pages by logical grotuping, and make iStar17Give Sola context Use Sola terminounderstand yology, suur intent.
+
+ch as “canvas”, “app”, “app qu Be specific aboutchart types or views if you want them.
+
+For example,• “table of admin• “bar chartusers”tof open vulnerabiliies by repo”eries”, and “integrations”, to help Sola AI Use interactive elementsSola canvases can include interactive features to make insights more actionable.
+
+For example:• Add links to view tuhenderlying data or qu• Highlighttdata trends wih arrows and coeries.lors.
+
+• Inclutdeoggles or tabs for differen• Add insights that summarizet views.
+
+trends automatically.
+
+3. Expand Grow and explore beyondthe basics.t Invie clarification Ask Sola AI to confirm before building. This helps align expectations and savetime For example,• "Before you startubilding, make sure everything is clear. Ask me any clarification quhave" Ask the Sola AI copilot When in doubt, ask Sola AI whattican do. This will help youdiscover new directions.
+
+For example,estion you might18• “What kind of canvases can I build from this app?”• “Whatinsights can I generate from this data?”• “How do workflows work?”• “Whattcan I do wih canvases?”4. Troubleshoot Fix issues and polish your canvas.t Even wih clear prompts, canvases may need some adjustmenright, youhavettheools to fix it.tts. Wih Sola AI, if something doesn’t look Refinethe prompt Re-rutn wih a smaller scope or clearer instrutcions.
+
+Tweak the layout Resize charts, adjust text, or move elements directly intthe canvas edior.
+
+Check for UX issues Adjustoverflowingtext, small buttons in Use queries as building blocks If a visualization isn’t working, make suretabs, or charts thatdon’tfit well.theunderlying query returns the data youexpect.Iteratte wih Sola AI Ask the copilot to adjustor fix issues, such as:• “Makethe chart labels shorter.”• “Increasethetab button size.”• “Movethe legendtothe right side.” Advanced ideasOnce yotu’re comfortable wihthe basics, try creative prompts to push canvases further:19• “Build a CISOdashboard and a separate engineering dashboard, each on its own• “Make a canvas themed for executtives wih high-level summaries andtraffic-light• “Add a toggletthat swiches betweentoday’s results and 30-daytrends.”• “Show MFA adoption over ttime wih arrows indicating increases and decreases.”• “Add links from charts ttohe queries poweringthem.” This guid e w ill continuteo g r ow w ith m or e b est p r actic es .
+
+tab.”lcoors for risk.”2App GalleryGettinspired wih ready-to-use apps made by our expert secturiyteam Explore expertu-bilt secturiy apps Browse ready-made apps designed by secturiy experts.
+
+Each app is built to help yotu answer criical secturiy qutposture—wihout starting from scratch.
+
+estions, track risks, and strengthen yoStartexploringthe app gallery .
+
+ur secturiySola App Gallery Customizetto make iyour own Every app inthe gallery can be customized. Sttart wih a template, modify quand set up alerts totailor it to your specific secturiy needs.Startexploringthe app gallery .
+
+eries, adjustdashboards,21How it works123 Browsethe gallery and install an app Find an app tthat aligns wih your secturiy focus, and add it to yo Connect the app to your data Add your data sources to gain insights on your environment.
+
+Customize your app Adjust queries, visualizations, and alerts, tto fiyour needs.
+
+ur workspace.
+
+22What’s New Release notes: Get the latest updates, features, and news from So September 17, 225 Here’s the lateston what’s new and improved atSola.la0 N e w : Vibe canvases Transform secturiy data into fully customizable interactive interfaces.
+
+Vibe canvases letuyocreate dynamic charts, tables, and gutides wih natural language prompts, givingyou utnlimited flexibiliy in layout, style, andtuse cases, from monioring cluod postureto buildingexecutive reports, and more.
+
+Seethe Prompt Guide for tips and examples to refine your prompts and get the best results.
+
+23N e w : Agentic workflowsStructure and automate secturiy operattions wih AI-native flows.t Agenic workflows bring intelligent step-by-step orchestrattiono yoremediation, and reporting across data sources and connectors. Butreasoning wih automation for flexible, transparent, and resilientur apps, enabling investigations,tilt wih Sola AI, workflows combineexecution.
+
+Trythem now in your apps Readthe full release notes24September 17 , 2 Release notes025 N e w : Vibe canvases Transform secturiy data into fully customizable interactive interfaces.
+
+Vibe canvases letuyocreate dynamic charts, tables, and gutides wih natural language prompts, givingyou utnlimited flexibiliy in layout, style, andtuse cases, from monioring cluod postureto buildingexecutive reports, and more.
+
+Seethe Prompt Guide for tips and examples to refine your prompts and get the best results.
+
+N e w : Agentic workflowsStructure and automate secturiy operattions wih AI-native flows.
+
+25t Agenic workflows bring intelligent step-by-step orchestrattiono yoremediation, and reporting across data sources and connectors. Butreasoning wih automation for flexible, transparent, and resilientur apps, enabling investigations,tilt wih Sola AI, workflows combineexecution.NoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m26September 10, 2 Release notes025Sola AI Send CSV to Slack Send any CSV exportfrom Sotwih your team in real time.
+
+la AI directlyto Slack as parttof a message, making ieasier to share datat Try inowSola Studio Explore data over ttime wih historical snapshotsccess historical snapshots of your data in Sola to explorethe history of your data, investigate changesin posture and configurations, using queries or by asking Sola AI. To activate, include “s n a p s hot s ” in yopromptor toggle on “Include historical snapshots” inthe SQL query window.ur For example, ask Sola AI to:• Show AWS EC2 inventory across multiple data snapshots.
+
+• Investigate snapshotts of Giuhbusers granted admin access inthe last• FindOkta role or policythathas changed inthe last 3 days across snapshofew days.
+
+ts and how.AIntegrations27Data Sources N e w : SentinelOneIntegrate Sentand secturiy poinelOnelicies.tto monior endpoint agents, threatdetttecions, vulnerabiliies, installed applications, N e w : Jira CloudIntegrate Jira Clutodo surface issusprints, boards, users and more.
+
+e and projecttdata, enabling visibiliy into remediation projects, tasks, New Apps Now available inthe App Gallery :• AWS Secturiy Posture Rule SetNoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m28August 10, 2 Release notes Here’s the latest025on what’s new and improved atSola.Sola AIuBild queries, alerts, and canvases, one prompt at a timeSola Copiltonow lets youubild canvases, alerts, and queries directtly wihin existing apps. Expandcoverage, add new use cases, and generate full dashboards, all from a conversattion withhe copilo Create multiple canvases in a single requtmakes ieasier than ever to grow and evoest, eachlve yotailoredto different teams or goals. This updatetur apps wih natural language.t.t Try inowIntegrations Data Sources N e w : Lovable App Scanner Connect Lovabletto monior and assess the secturiy posture of your Lovable applications, includingtvulnerabiliies, misconfigurations, and hidden exposures tthat tradiional tools may overlook.
+
+29New Apps Now available inthe App Gallery :• Lovable App Scanner - Secturiy PostureNoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m3July 23, 2 Release notes Here’s the latest025on what’s new and improved atSola.Sola AI Graph-enhanced research in Sola AISola AI now includes graph-enhanced research, a deep analysis modethat uses Sola’s proprietarysecurity graph to answer complex questtions wih rich conttext and clariy. It maps relationships betweenresources, controls, and risks to deliver grounded, complete responses backed by visual evidence andcross-environment reasoning.
+
+Graph research mode in AI copilot Graph research visual representationt Try inow in your workspace homeNoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m31July 21, 2 Release notes Here’s the latest025on what’s new and improved atSola.Sola AIYour AI Secturiy CopiloSola AI is now integratedthrou The new design lets you ask qudashboards, and queries.
+
+t: AI-FirstSola app layoututghoyour secturiy apps.
+
+estions, explore data, and investigate issuIntegrationses while viewing alerts,32Data Sources N e w : UpwindIntegrate Upwindto surface clotand vulnerabiliies.ud secturiy data from Upwind, includingthreat policies, threatdettecions, N e w : Jamf Pro Connect Jamf Pro for Apple device managemenand secturiy posture across your Apple fleet.ton enrolled devices, configurations, user associations, Connectors N e w : Jira Bring Sola AI into your Jira projects to create andstreamline remediation workflows.
+
+track issues directly from in-chatconversations andSola Studio Export Download yolayout.
+
+canvas as PDFur canvas as a PDF to share insights or reporton findings. The file includes all widgets and Export alert tables as CSV33Export triggered alerts and alertevidencettables wih Sola apps directlyreflectyour customized view (filters, sorting, and selected columns).to CSV files. Exported files New Apps Now available inthe App Gallery :• EntraID - Secturiy and Access InsightsNoStaytutes and remindersned for more coming soon! 🚀34June 30, 2 Release notes Here’s the latest025on what’s new and improved atSola Connectors: Real-time actions from in-chat AI copilotSofrom Sola now supports Connector inla AI conversations.tegrations that letuyointeractt wih external services in real time, directly Usethe new Slack connector to share findings during analysis, escalate issuoffload insights ttohe right stakeholders or channels across your organization.
+
+es for remediation, andSola AI Ask AI copilot about triggered alertsSola AI can now help you review and investigatetriggered alerts.Geton-demand insights intotriggered alerts to help yotu prioriize andtake action.
+
+Ask questions like “ W h at al ert s s houl d I focu s ontod a y? ” or “ How c a n I r em edi atteh es e is sues? ” toget a structured summary of relevant alerts, key findings, and recommended next steps directly from theSola AI copilot.
+
+Ask AI copilot to sendto SlackSola AI can now share findings, insights, or summaries directlyto Slack.
+
+Use prompts like “ S endthis to m y S ecOp s ch a nn el ” or “ Nocollaboration and keep stakehotlders informed wihout leavingtttifyh ee a m in Sl ack ” to streamlinethe conversation.
+
+35Sendto Slack from AI copilot Slack Sola Agent Export AI-generatedSotla AI can now export tables itables as CSVgenerates during a conversation as CSV files.
+
+Ask the copilot to export any result table, such as investigation findings, user lists, or issufor easier sharing, reporting, or deeper analysis in external tools.
+
+e breakdowns, Export CSV from AI copilotIntegrations36Data Sources N e w :O X Secturiy Connectand more.
+
+Ox Secturiytto monitor code vulnerabiliies, secrets exposure, container risks, SBO M insights, N e w : WordPress ScannerIntegrate WordPress to surface puinfrastructure.tblicly exposed sies, and potential secturiy risks across your web I m p r ov e d : Cloudflare Now supports custom firewall rule sets and rules attbotvisibiliy into web application prottecion and access conhAtrouccont and Zone levels, providing deeperl configurations.
+
+I m p r ov e d : Google Workspace Now inclutvisibiliy.
+
+des Google Directory, enabling insights into organizational structure, user status, and access Connectors N e w : Slack Send findings, summaries, alerts and more directly from Sola AI copilot to Slack.
+
+37Sola Studio Export qu Export quselected coery results to CSV fileery results directlyto CSV files. Exported files reflectlumns).your customized view (filters, sorting, and Filter canvas widgets Apply filters to individual widgets in your canvas, in both edit and view mode, to focus on specific dataslices. This lets you refinethe scope and create multiple widgets from a single qutery, wiuthoduplicatingor modifyingthe original query.
+
+New Apps Now available inthe App Gallery :• CrowdStrike - Hosts and Alerts InsightsNoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m38May 2 Release no0, 2tes Here’s the latest025on what’s new and improved atSola.Sola AI From prompt to app, powered by Sola AISola AI now builds complete secturiy apps from a single prompt.
+
+Whether yosecturiy sou’relution in mintackling a known issuutes.
+
+e or exploring new risks, So Justdescribecomplette wihthe secturiyuse case you want to investigate, and Sotailored dashboards, alerts, and key insights from yola AI turns your promptinto a workingla AI will generate a full app,ur connected data.Build an app for your secturiy needst Try inow in your workspace home39NoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m4May 14, 2 Release notes025 Here’s the lateston what’s new and improved atSola.Integrations N e w :Open AI Platform ConnectyourOpen AI accopottenial risks across youurOnt tto monior users, API keys, projects, aupen AI environment.dit acttiviy, and more, touncover N e w : Sola Web Checker Add domains, URLs, or hostendpoinposture of your public assets.
+
+ts touncover hidden risks, and continuotusly monior the secturiy New Apps Now available inthe App Gallery:• Google Workspace• Sola Web CheckerSola Studio41lertemail notification Add members or valid email addresses to receive email noAtifications when a new alertis triggered.
+
+Canvas widget Expand widgets in yooverviewur app canvases to easily view a detailed overview ofthe query and data results.
+
+Filter queries in alertcreationt Apply an addiional filter layer ontop of a selected quthe scope and create multiple alert rules from a single query when creating alert rules. This lets yotery, wiuthoduplicating efforts.
+
+u refine Filter query view Applytable filters when viewing query results to refinethe data.NoStaytes and reminderstuned for more coming soon! 🚀— Th e Sol a T e a m42April 2 Release notes Here’s the latest0, 2025on what’s new and improved atSola.Sola AI New Sola AI insights agentGettdeep visibiliy into your secturity posture wih a new AI insights agent.
+
+Apps now include a dedicated Sola AI tabto help youinvestigate your environmenrisks by asking secturiy questions. Ask specific or broad questions like “What’s myposture?” or “What arettheop secturiy issutes wih my GitHutb reposiories?”, and Sotargeted queries, generate insights, and surface what matters most.
+
+t anduncover secturiy AWS secturiyla AI will return Whether you’re exploring new risks or validating yodeeper, faster.
+
+ur controls, this AI-powered agenthelps youdig New Sola AI insights agent43Integrations N e w : Microsoft EnIntegrate yoorganization.
+
+ur Microsoft Entra ID (formerly Azure AD)tra ID environment tto monior identtiy and access management across your N e w : Google Workspace Connectyour Google Workspace accoun Gmail settings, and files in Google Drive.
+
+ts to gain insights and build apps around Workspaceusers, I m p r ov e d : GitHub Cloud - Sola GitHub App The Sotwih yola GitHuur Sob App is now available as a fast and secure wayto connectla workspace.your GitHub Cloud acco This predefined integration simplifies settup, making iGitHub environment.
+
+easier to get started and begin analyzing youtnurt Securiy and Privacy44SO C 2 Type II complianceSola is now SO We are committ C 2 compliantedo prott, meettinghe highest standards for secturity, availabiliy, and confidentecing yotur data wih industry-leading practices andtrusted secturiy conttialiy.
+
+trols.
+
+Learn more aboutocompliance documenur other key industry certifications, sutation, inthe Trust Center .
+
+ch as ISO27001, and our latest secturiy andNotes and remindersStaytuned for more coming soon! 🚀— Th e Sol a T e a m45Workspace46Workspace Home Create your own secturiy solutions A Sola workspace is a collaborative stuapps. Itis a virtual space for all apps yobe a member of multiple workspaces.
+
+dio environment that lets youcreate and share custom secturiytu are a member in and can join, wihin an organization. YoucanSola workspace homeYour workspace is a cenand create custom sotral place where youcan ideate and map outyour security gaps anduse cases,lutions to address them. Each custom solution can cover a specificuse case.
+
+Key components you’ll need:1. Data sources - Secure connections to2.Apps - Customizabletools designedtthe data of services used wihin yoto address specific cyber secturiyur organization.
+
+use cases or needs.
+
+Protip: Start This will allow yoby connecting your data sources.
+
+u to startttgeing answers to your secturiy questions and create apps quickly.
+
+47Apps Create custom secturiy apps, your way A Sola app is a custom secturityool thatuyocreate, tailored for your specific secturiy needs and area oftinerest. Each app youcreate is autonomous and supports its ownuse case. Ittcan be limitedo one ormore data soturces wih different workspace members as creators and consumers.
+
+The app youcreate can range from basic and simpletcan be shared wih your team members, depending ontworkspace members withhe selected default rouse cases, to specific or complex scenarios. Appstheir member roles. Public apps are opento allle. Private apps requtire an invie.
+
+Apps are connecttedo relevantino your organization.tdata sources that allow you to query your data and gain secturiy insights Each app is madeup of 5 building blocks:1. Sola AI Copilot- Ask questions and getinsights aboutyour secturiy.
+
+2. Queries - Exposetuhenderlying data from your so3. Canvases - Vibe-code your data into fully in4.Alerts - Turn key questions inurces.teractive interfaces.to rules tthat monior your data.
+
+5. Workflows - Structure and automate acttions wih AI-native flows.A Protip: Create security apps your waySola gives you tthe flexibiliyto structure your apps based on your secturity prioriies.
+
+For example, youcan create apps by secturiyuse case (e.g., Identtiy and Access Management), by datasource (e.g., AWS Secturiy Posture, GitHub Secturiy Posture), or a combination of both (e.g., AWS Idenccess Management, Salesforce Identtiy and Access Management).ttiy and How youc r e ate you r a p p s is entir el yu p to you . C hoose what makes the most sense for your secturiy needs.
+
+48What's a Sola app?
+
+What's a Sola app?
+
+What's a Sola app?
+
+Creating appsYoquSour apps can be as simple or as complex as youneed. Depending on how technical you want to get, theeries componentof your app provides tthe flexibilityo query your data using natural langtuage wihla AI and SQL queries.uSola AI helps yoncover insights.
+
+u quickly generate queries and refinetthem, making ieasier to explore your data and49U s ing Sol a AI to quer y d at a a nd fin e-tuningth e g en er ated SQL quer y Create a new app from scratch, join an existing one in yoapp gallery made by our expert secturityeam.
+
+ur workspace, or use a prebuilt app from the Joining a work s p ac e5Creating a new app from the app gallery Who can create and install apps?Only workspace owners and admins can create apps, join existing apps, or install apps from the app gallery.
+
+Connecting data sources To create a new app, you’ll needto connectit to one or more data sources.
+
+Connecting yorelevant to yobased on your data source is importantbecause it allows you to get answers to your questions that areur data. By linking your data sources, youcan easily find secturiy insights and answersur organizational data.Youcan skip this step for now andt(wiuthodata). Connectyour data souse a placeholder data source, which incluurce later when you're ready.
+
+des onlythetable schema Viewing and collaborating on appsSola provides two ways to access apps in your workspace:51• My Apps - Apps thatyo• Workspace Apps - Apps in you are a member in, whether created by your workspacethatuyocan join.uor someone elseCollaborate in real timeto share insights, refine secturiy findings, and buwho else is active inthe same app or building block as youcreate.
+
+ild on each other's work. SeeCollaborate in real time FAQs Who can create or install apps in Sola?Only workspace owners and admins can create apps, join existing apps, or install apps from the appgallery. If youdon’thavethe necessary permissions, reach out to your workspace admin.
+
+How does Sola AI assistant use my data?Sola AI assistantaccordingto ollfoows strict secturiy practices tour standard secturiy policies .
+
+keep your data safe. YoSosola AI assistantdoes not use yolelyto generate responses and is nour data totrain our models. At retained for training purposes.
+
+ny data processedur data is stored securelythrough Sola AI is used52Can I enable or disablethe Sola AI Assistant?
+
+Yes. Youcan enable or disablethe optionto skip the Sola AI assistant when creating new queries.
+
+53QQQQuuupoueriesery your secturiy data for insightseries help you analyze secturiy risks by retrieving relevantdata from yoerying your data allows you to explore your secturiy posture across differenttenial threats, andutncover criical secturiy insights.
+
+ur connected sotenvironmenurces.
+
+ts, dettecQueries are one ofthe building blocks that makeup an app, alongside canvases, alerts, and workflows.Query real-time collaboration Creating qu There are• Use So• Write yoeriestwo ways to create queries:la AI to ask secturiy-related quur queries from scratchusingestions in natural language and generate quthe SQL qutery edior.
+
+eries automatically.
+
+Protip: Enhance your SQL queries with Sola AISola AI can help youtidenfor more accurate results.
+
+ifythe right tables and columns thatcontainthe data youneed or refine SQL syntaxOnce created, queries can be saved, published, and modified to refine your insights over time.
+
+54uPblishing queries A query extracts a specific datasetfrom your connected data sources. Publishing a quretrieved dataset as a table in your app. This makes the data set available across yo• Canvases - Turn query results in•lerts - Set up alerts based on qu• Workflows (com ing s oon) - Ato charts, graphs, andery results.utomate secturiy actions.
+
+tables.
+
+ery saves theur app for:A Managing queries The Query Library is where youcan access all queries in your app.uQeries can be:u• Pblished - Available for use across the app’s buand accessibleto all app members.
+
+• Private drafts - Visible onlyto you until shared.
+
+ilding blocks—canvases, alerts, and workflows—Public and private queries in query libraryuQeries havetwo modes:55• View mode - Displays the last published version ofthe query.
+
+• Edit mode - A real-time shared draft, where multipleusers can cochanges live before publishing.
+
+llaborate, edit ttogeher, and see Edits are only applied and visibleto all app members once putohers have made are publishedttogeher.
+
+blished. When you publish, all changes you andInthe query library, depending on your ro• View all available qu• Create and modify qu• Duplicate a query• Delete a query.Note: This action cannotbreakor stop working.
+
+eries in your app.
+
+eries.to modify itt wihoubele permission, youcan:utchangingthe original.
+
+ndone. Assets usingthe query, such as canvases or alert rules, will To manage your app role permissions, goto W ork s p ac e S etting s > Ap p P er m is s ions .
+
+Protip: Refine your SQL queries with Sola AIccess Sola AI from the query sidebar, or usethe AI icon next to Ru•ptOimize - Improve query efficiency.
+
+• Explain - Understand what the query does.
+
+• Debug - Identify syntax issues and get suggested fixes.An Query for quick actions:56Canvases Vibe-code your data into fully interactive interfaces Canvases are antinuerfaces. Thinknderstand, and qu AI-powered waytotransform yoof it as a vibe-coding app buery your secturiy data.
+
+ur secturiy data inilder, driven by Sola’s uto fully customizable interactiveniqute capabiliies to ingest, Use natural language prompts to create any interacttive dashboard or report wih dynamic charts, tables,filters, and other interactive visuals, from your query results and connected data.Get the exact results you wantt wihutnlimited flexibiliy in layout, customization, colors, fonts, and styles.
+
+Canvases are one ofthe building blocks that makeup an app, alongside queries, alerts, and workflows.
+
+V ib e-cod e you r s ectu r iy d at a into full y inter activ e d a s hbo a r d s Creating canvases To create a canvas, click N e w c a nv a s from the C a nv a s es tab and describethe dashboard or insights yowantin a prompt. Sola AI will generate your canvas.u57tOncehe canvas is creatted, iis automatically published and availableto all app members.
+
+Seethe Prompt Guide for tips and examples to refine your prompts and get the best results.
+
+Managing canvases The Canvas Library is where youcan access all canvases in your app.
+
+Canvases are live, interactive interfaces that update as yoapplied in real time and visibleto all app members.uchangethem. Edits by co Canvases arettiedo your connected data, they contuand configurations, ensuring insights stay curreninouslytt wihout manupdatteo reflect the latest quual refresh.
+
+llaborators areery results Examples anduse cases Canvases are flexible and support a wide range of secturiyugiding.
+
+use cases, sutch as monioring, tracking, andt Monior Track secturiy posture, exposures, and compliance checks in one place.
+
+For example,• Cluod Secturiy Posture (CSPM) dashboard.•ttack Surface Management (ASM) exposuretracking.t• Vulnerabiliy managementt reports by severiy/repo.A Explore Drill into assetts, vulnerabiliies, and risks to fo For example,llow changes over time.
+
+58• Assetinven• Threat• Patchttory boards (wih filters and drill-down).ttinel trackers with prioriized I Cs.Otracking dashboards.•ccess review boards (Okta/Azure AD risky accounAts).
+
+Report Provide high-level summaries and compliance views for leadership and audits.
+
+For example:• Executive reports highlighting key risks, posturetrends, and KPIs.
+
+• Compliance summaries for S C2/ISOOreadiness and audit preparation.
+
+• Riskheatmaps and scoring across business units or domains.
+
+• Posture overview dashboards tailored for board or CISOreporting.Guide Provide structured secturiy knowledge and step-by-step instrutcions for teams.
+
+For example,• Developer onboarding secturiy guides.
+
+• S C rutnbooks wih stOep-by-step instru• Secure coding quizzes/games.•ttack simulation walkthroughs.tcions.A Each canvas is generatted wih Sola AI prompts.t Seehe Prompt Guide for tips and examples of how to phrase your requests for different use cases.
+
+FAQs What kinds of visualizations can I addto a canvas?
+
+59Canvases support a wide range of visuals tto fidifferent use cases. Youcan add dynamic charts (bar,line, pie, stacked), interactivetables, scorecards, and coutners for KPIs. Beyond data, canvases alsoallow you to embedtextblocks, images, and layouts—making it possibleto build narrative-drivendashboards, secturiy guides, or even fully branded executive reports.
+
+Can I create canvases thatcombine data from multiple sources?
+
+Yes. Canvases canunify insights from multiple sources in a single view. For example, you AWS cluod configurations, GitHutb reposiory settings, andOkta identtiy data side by sidetoxic combinations, or compliance gaps across your environment.
+
+can correlateto reveal risks, Can I share canvases?
+
+Currenttly, canvases are only visible wihin your app. No external sharing yet.
+
+6AlertsStay informed about secturiy risks and policy violationsAlerts help you track secturiy risks, misconfigurations, and policy violations by notifying yorecords meett specific condiions. They allow you to proacttively monior secturiy evenquickly when risks arise.
+
+u when quts and responderyAlerts are one ofthe building blocks that makeup an app, alongside queries, canvases, and workflows.
+
+Reviewingtriggered alerts Creating alert ruleslerts allow you totcondiions are met.
+
+track secturity risks by monioring quAery records andtriggering notifications when To create an alert rule, from the Al ert s tab of your app, gotoAl ert Rul es > click N e w rul e.
+
+Definethe following inthe Sola wizard:61• Rule query - Select the query you want tto monior. Use an existing published query.u• Qery record fingerprint- Specify which columns uniquely identify your records for deduplication.
+
+By default, all columns are included.
+
+• Grouping - Configure how query records are grouped intto alerts wih findings.•lert scope - Choose whether to applythe ruleto all existing qutery records or only new ones, aferthe rule is enabled.Note: Simulation will run on existing records.•lertname - Usethe rule name or a custom alertname. Insertdynamic placeholders for dynamicalertnames.Note: Use $ to add a dynamic placeholder (e.g., ${id}, ${created_at})•lertdescription - Add a descriptttionhat will appear withhetriggered alert. Insertdynamicplaceholders for dynamic alertdescriptions.Note: Use $ to add a dynamic placeholder (e.g., ${id}, ${created_at})t• Seps to remediate - Add guidance on how to fix or address this issue.•lert severity - Select tthe alert severiy level.t•civate rule - Enableto startenforcingthis rule onthe selected query.•lertemail notifications - Add members or valid email addresses to getemail notifications whenthisalertis triggered.AAAAAA Email notifications are sentfor:• New alerts (excludingthosetriggered duringtthe iniial alert rule setup)• Newly discovered evidence in existing alerts Available dynamic placeholders depend onthe Grouping setting• If no grouping is applied, all query columns can beused as dynamic placeholders.
+
+• If grouping is based on specific columns, onlythose columns will be available as dynamic placeholders.
+
+This applies to bothlert Name and Alert Description.AOnce configured, alerts will automaticallytrack matching qualerts view.
+
+ery records and displaythem inthe triggeredA Managing alert ruleslerts are managed intwo views: Triggered alerts62The T r ig g er ed Al ert s view is where youcan:• View all triggered alerts andttheir severiy.
+
+• Investigate findings andupdatethe alert status as yo• Assign alerts toteam members for resolution.
+
+u resolvethem.Alert rules The Al ert Rul es view is where youcan:• Create and edit alert rules totrack secturiy findings.
+
+• Enable or disable rules as needed.
+
+• Delete rules that are nolonger relevant.Your permissions depend on your app role App permissions, such as create and edit, are based on yo To see available permission levels and check your role, gour app role.to Settings > Workspace Settings.t Ediing an alert rule:Once an alert rule is created, youremediation steps. The core logic (e.g., query, fingerprin To changethe logic, create a new rule.
+
+can only edit the name, descripttion, severiy, andt, or grouping) cannotbe modified.
+
+lert lifecycle evidence When an alerttis triggered, iinclutriggered. Evidence is categorized indes supporting evidencethathelps you understand whytothree states, which impact the alert lifecycle:the alert was1.A2. Exclu Exclu3.Otcive evidence - Evidence found inthe last alertded evidence - Evidence foutndhat was manded evidence can be re-activated if needed.
+
+ld evidence - Evidencethatexisted in a previocalculation.
+
+ually excluded from the active evidence list.
+
+us calculation butis nolonger detteced.
+
+To review evidence for a triggered alert, clickon an alertfrom thetriggered alerts view.
+
+Managing evidence enables you to control when an alert remains active, is resolved or suppressed.A Reviewing alerts63tAfer an alertis triggered, youcan review its details, investigate findings, andtake action.Opening an alert shows the matching query records and why it was triggered.Youcan assign alerts toteam members andupdatetheir status as you work throughthem.Alert statusesStatus DescriptionOpennew alertinvestigation.
+
+has beentriggered and requires In Progress The alertis being reviewed or worked on.Suppressed The alertis acknowledged butdoes not require action.
+
+Resolved The issuatttenion.
+
+e has been addressed and nolonger needsuto-Resolved The issue has been automatically resosystem, sincethere is no active evidence.
+
+lved bythe Deprecated The alerthas been deprecated, sincethe queryused inthe alert rule, representtinghe rule logic, has changed.AA64WorkflowsStructure and automate your secturiy operattions wih AI-native flowst Agenic Workflows bring intelligensecturiy apps. Use workflows to struacross data sources and connectors.
+
+t Directed Acyclic Graph (DAG) structure and automattiono yourcture multi-step actions, orchestrate investigations, and automate Workflows are one ofthe building blocks that makeup an app, alongside queries, canvases, and alerts.
+
+AI-powered workflows Workflows combine AI-nattive reasoning wih structured execution to overcome single prompts and oldschool automation limitattions, bringing flexibiliy, transparency, and real-world resilience to your securityoperations.
+
+Learn more inthe Sola blog Workflow components Workflows are madeup of key components thatdefine how they start, run, and deliver results.
+
+65Single-step AI block In Sola Workflows, eachnecessary data sources and AI block (step) is like an AI agent. It takes inputfrom the previotools, and performs thetask defined inthe prompt.
+
+us block, uses theA Trigger Defines when a workflow starts, su(e.g., daily at 10 AM), in responsenew alert), or manually.
+
+ch as on a scheduleto an event (e.g., atSep / Block A single action inthe workflow, such as running secturiyqueries, filtering results, performing cross-platformchecks, or sending notifications.
+
+Prompt The AI instrutcionthatugides a workflow step.utomationt The abilityo automatically gather, analyze, andtakeaction on data (e.g., findtusers wihout MFA, determinewho has the most permissions, send a Slack message,or create a ticket).Integrations Data sources and connectors (e.g., AWS, GitHub, Slack, Jira) for coordinated actions.Notifications and reporting Configurable outputs at the end of a workflow to sharetresults, alerts, or summaries wih relevant stakeholders.
+
+ExecutionA single run of a workflow from trigger to completion,twih all steps performed and results tracked for review.
+
+Directed Acyclic Graph (DAG) The strushowingctured visual representation of workflow steps,the order, logic, and connecttions wihout loops.
+
+Creating workflows Workflows enable multi-step orchestration and automations that use queries, connectors, and AI torespondto secturiy issues, coordinate actions, and reduce manual effort. They can beused forremediation, enrichment, reporting, and other structured flows directly inside your app.
+
+Each workflow is structured as a Directed Acyclic Graph (DAG), giving you precise controlover the order,tcondiions, and logic of each step. Ensuring consistent, repeatable responses to secturiy events.
+
+To create a workflow, use Sola AI to describethe outcome you want.Soyola AI will buur request. Yoild youur workflow, adding AI blocks (stteps) wih prompts, connectors, and logic based oncanthen review and adjusteach prompt, connected data sources, and actions.
+
+66Workflows can only be creatted wih Sola AI, notby manand Sola AI will generattehe blocks and logic for youally building steps. Describethe workflow youu, which youcan adjust mantually or wih Sola AI.
+
+need,Running and managing workflows Workflows can be run manually, on a schedule, or triggered by eventts wihin Sola. When a workflowruns, each AI block executes in sequence accordingttohe defined sequtenial logic.
+
+To run a workflow:• Manual run - Trigger the workflow directly from the app.
+
+• Scheduled run - Set workflows to run automatically attdefinedimes.
+
+• Event-triggered run - Start a workflow based on specific or multiple alerts.tAfer a run completes, youcan review the outputfor every step to see what actions weretaken, whatdata was used, andthe results produtced. This provides visibilityo validattehe workflow’s effectivenessand debug issues.
+
+To manage a workflow:• Edit step prompts - Adjust the instrutcions for each step mantually or wih So• Update connectors - Change or add integrations used bythe workflow.• Adjust ltogic - Modify condiions, branching, or sequtenceo adapt to evola AI.
+
+lving needs.
+
+What makes Sola workflows different AI-native, notjustSola Workflows don’tthey can reason and adaptautomations.
+
+AI-supportedjust use AI, they are AI native. AI drives the logic, flow, and outcomes. This meansdynamically, makingthem far more flexible and effectivethanttradiional Resilient and adaptive executiont Tradiional automations fail whentthey hifriction such as missing data, edge cases, or uinputs. Sola’s AI-led workflows adaptin real time. They’re designedto creatively soimprovise when needed, and maintain progress toward meaningfulutocomes.
+
+nexpectedlve blockers,DeSoterministic where it mattersla combines tthe flexibility of AI withhe controlof determinism. Enforcing strict and reliable logic foracttions where precision is criical. Ensuring predicttabiliy and autditabiliy.
+
+67Security intelligence built-in Every workflow is grounded in Sola’s domain expertise andunderstanding of secturiy context. Instead ofjustexecutingtasks, workflows reason over identttiy, access, risk severiy, and posture impact, turningautomations into intelligent responses.
+
+FAQs Are workflows only for automating scheduled processes?
+
+No. A single promptcan beused in mostcases. However, when running complex and multiple stepinvestigations, workflows can help create a relatively more deterministic outcome, be simpler to debuand provide moretransparency inttohe outcome of each step in a long process.g Whatdata sources and connectors can workflows use?
+
+Workflows can potteniallyutilize any data source or connector associatted witthhe app iis builtthis, data sources and connectors mustbe associatted witthhe app beforehand. In addiion, likeworkflows havethe nattive abilityousethe web for fetching specific informattion (withhe samecompliance and guardrails ofthe Sola chat).
+
+in. To dothe chat,68Integrations69Data So ConnectSola to yourcesur data sources and create yo A data source is a secure connection from your So Data can be imported from various soapplications, secturityools, and any our solutionsla workspace to your organizational data.
+
+urces, incluther soding cluod providers, clource desired.ud services, operational Learn more abo Data soutdata privacy .
+
+urces and records quota are subject to pricing and packages .
+
+Available data source integrations7Amazon Web Services (AWS) Google Cloud Plattform (GCP) Microsof Azure Google Workspace GitHub CloudOkta MongoDBAtlas Wiz WordPressSola Web Checker Lovable App Scanner CSV File Zoom Jira Cloud Cluodflare71t SeninelOne CircleCI Datadog Crowdstrike Salesforce Microsoft Entra IDOpen AI PlatformO X Secturiy Upwind Jamf Pro Data sourcetables Each data source contains multiple tables that store strusource. This data is organized for easy analysis and is available for quctured data retrieved from your connectederies, visualizations, and alerts.
+
+Sync statusSola syncs yodata size.
+
+ur data daily to ensure your insights stayup to date. Sync cycletimes vary based onthe72Checking sync status To check the status of your data:• Data Sources page - Clicku• Qery Library - Clickstatus.
+
+on a data soon a specific quurce to seethe sync status of its tables.
+
+ery to check which data tables are beingused andtheir sync Last sync information Sync details are available at twolevels:• Data source level - Displays the overall sync status andtlast update.
+
+• Table level - Shows individual table sync status andthe notal number of records synced duringtheumber of records synced per table.
+
+Table sync dependencies Sometable data depends on o(child) tables will also fail.ther tables to sync su For example, an AWSuser rofails to sync, the AWSuser roles table depends on sules table will also fail.
+
+ccessfully. If a parent table fails to sync, its dependentccessfully retrieving AWSusers. Ifthe AWSusers table73Sync status types Data source sync status Synced - Acycle.
+
+ll tables successfully synced in Partially Synced - Sometables did nosync cycle.
+
+t sync inutOof Sync - The last sync failed.the last syncthe last Table sync status Synced - Thetable or tables under the same grosuccessfully synced inthe last sync cycle.up Syncing - Thetable or tables ucurrently syncing.
+
+nder the same group are Tables failed - Thetable or tables under the samegroup failedto sync inthe last sync cycle.
+
+Disabled - This table has been disabled and is notsynced.
+
+Enabled - This table has been enabled and will sync inthe next scheduled sync.
+
+Disabling and Enabling Tables Disable a table if younoupdates, and records quolonger need its data to be incluta.
+
+ded in sync cycles, redu• Disabledtables will nolonger sync or be available for queries, canvases, or alerts.
+
+• Disabling a parent table will also disable any childtables thatdepend on it.
+
+• Re-enable a table at anytimeto resume syncing and restore access to its data.
+
+cingunnecessary data Snapshots and incremental data updates Data sourcetables supporthistorical data collection, allowing you to explore changes over time.
+
+Table’s data is updated in one oftwo methods:• Snapsho• Increments - capture a single point-in-time state ofthe data.
+
+tal - contuinously collectchanges, building a stream of historical records over time.
+
+To view and“snapshouse historical snapshots” in your query or Sots saved by Sola AI prompt.
+
+la and notonlythe latest snapshot, inclutdehe word By querying snapshots or incremental tables, youcan explorethe history of your data,investigate posture changes in posture, track configuration drift, and review past states.
+
+For example, ask Sola AI to:74• Show AWS EC2 inven• Investigate snapsho• FindOkta role or potory across multiple data snapshots.tts of Giuhblicythatusers granhas changed inted admin access inthe lastthe last 3 days across snapshofew days.
+
+ts and how.
+
+Historical snapshots are availableup tto 90 days back, limied by when your data source was connected.
+
+FAQs Why should I connect my data sources?
+
+Connecting your data soorganizational data.
+
+urces allows you to find answers to your secturiy questions using your own The collected data is usedto create apps.
+
+Why should I trustSotla wih my data?ttSola, we prioriizethe secturiy and privacy of your data through strong encryption, strict accesscontrotls, and compliance wih industry standards.
+
+ur systOems are regularly auttdied, moniored forthreats, andundergo contuinous secturiy improvements to ensure yotur sensiive data remains protteced.A Whatthappens wih my data?Sola has read-only access to your data.
+
+tables that uniquely map the data contenanswers to your specificuse cases. Soyou touse.Once connected, your data is securely stored in structuredt and its soturces. This is what makes ieasyto query and findtla AI brings an addiional layer of secturiy knowledge available for Whathappens if I don’tconnect my data?
+
+If youdon’tconnect a data source, yoallows you to see how apps and qusecturiy data.
+
+u’llonly be ableto expltore sample data wihin Soeries work, you won’tget real insights based on yola. Whilethisur organization’s Why does Sola need wide permission-level read access to my data?
+
+75The answers to your questions colimit the insights and answers you Learn more aboutdata privacyuld be hidden anywhere in yocan gather.tur data. Limiing access to your data will76Amazon Web Services (AWS) ConnectSola and AWSto get secturiy insightsOverview The Amazon Web Services (AWS) tworkspace, making ieasyintegration connects data from yoto search and find answers to your specificur AWS accouse cases.unt to your Sola The AWS integration gives you a complete view of yoanalyze AWS secturiy posture and pottenial threats.
+
+ur AWS environment, allowing you tto monior andtWithhe AWS integration, youcan:• Ensure cloud secturiy best practices• Gain ftull visibiliy into your cloud reso• Identify secturiy risks across your clourcesud environmentYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining data No hidden indirectcluod provider charges The Sola integration won’t use resources thatincrease your cloud costs.Set up AWS data soGoto I nte g r ations > D at a Sou r c es Th e Sol a w iz a r d w ill t ak e yource integrattion wih So> click N e w d at a s ou r c e > select AW S.
+
+u thr oughth e step s .la Connect AWSto Sola To connect AWS, you’ll need an AWS accountt, wihthe necessary permissions to create an IAM role.
+
+77Cross-Auccont Role Recommended for secure, produtwihin your account to securely grantcion environments. These methods use an IAM role delegationtSola read-only access to your AWS services and resources.
+
+• CloudFormation (Recommended)• TerraformAccess Token AWS IAM access key and secret.
+
+Sync behavior and limitations Sometables have specific sync constraints duteo data size, retenconsiderations. Below are special cases to be aware of:tion policies, or performance Table Sync detailsaws_secturiuyhb_finding Inclutdes only findings wih antcive status.A ExploreGet startted wihthe app gallery for AWS apps AWS-focused secturiy apps , builtby our expert secturiyteam.
+
+78Google Clo ConnectSola and GCPud Platform (GCP)to get secturiy insightsOverview The Google Cluod Platform (GCP) integration connects data from your GCP accotworkspace, making ieasyto search and find answers to your specificuse cases.unt to your Sola The GCP integration gives you a complete view of yoanalyze GCP secturiy posture and pottenial threats.
+
+ur GCP environment, allowing you tto monior andtWithhe GCP integration, youcan:• Ensure cloud secturiy best practices• Gain ftull visibiliy into your cloud resources• Identify secturiy risks across your cloud environmentYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining data No hidden indirectcluod provider charges The Sola integration won’t use resources thatincrease your cloud costs.Set up GCP data soGoto I nte g r ations > D at a Sou r c es urce integrattion wih So> click N e w d at a s ou r c e > select G C P.la Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .
+
+Connect GCP To connect GCP, yoto Solau’ll need a GCP accountt withhe necessary permissions to create a service account.
+
+79Service Autccon Recommended for secure, produtwihin your project to securely grantcion environments. These methods utilize a GCP Service AtSola read-only access to your GCP services and resouccources.
+
+• Service Auccont Key (Recommended)• Terraformtn Explorethe app gallery for GCP appsGet startted wih GCP-focused secturiy apps , builtby our expert team.
+
+8t Microsof Azure ConnectSola and Azureto get secturiy insightsOverview The Azure integration connects data from your Azure accoto search and find answers to your specificuse cases.unt to your Sotla workspace, making ieasy The Azure integration gives you a complete view of yoanalyze Azure secturiy posture and pottenial threats.
+
+ur Azure environment, allowing you tto monior andtWithhe Azure integration, youcan:• Ensure cloud secturiy best practices• Gain ftull visibiliy into your cloud reso• Identify secturiy risks across your clourcesud environmentYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining data No hidden indirectcluod provider charges The Sola integration won’t use resources thatincrease your cloud costs.Set up Azure data soGoto I nte g r ations > D at a Sou r c es Th e Sol a w iz a r d w ill t ak e yource integrattion wih So> click N e w d at a s ou r c e > select Azu r e.
+
+u thr oughth e step s .la Connect Azureto So To connect Azure, yoan App Registration.
+
+u’ll need anla Azure accountt withhe necessary permissions to create and configure81App Registration These methods use anonly access to yo Azure App Registrattion wihin your Azure services and resources.• App Registration (Recommended)• Terraformur subscriptionto securely grantSola read- ExploreGet startted wihthe app gallery for Azure apps Azure-focused secturiy apps , builtby our expert team.
+
+82Google Workspace ConnectSola and Google Workspaceto get secturiy insightsOverview The Google Workspace integration connects data from your Google Workspaceto yotmaking ieasyto search and find answers to your specificuse cases.
+
+ur Sola workspace, This integration gives yotu visibiliy into drive and file-sharing acttiviy across Google Workspace, enablingyou to identify exposure risks and maintain compliance across your organization.tWithhe Google Workspace integration, youcan:• Detect publicly or externally shared files.t• Monior file sharing permissions to prevent unauthorized access.
+
+• Investigate access levels granttain compliance wih intttedohird parties.
+
+• Mainternal and external data-sharing policies.Your data can only be retrieved, never modified.Once connected, your data is securely stored, and access is restricttedo retrieving configurations and meta-data only. Autthenication methods ensure secure delegation of permissions while maintaining data inttegriy.Set up Google Workspace data soSolaurce integrattion wihGoto I nte g r ations > D at a Sou r c es Th e Sol a w iz a r d w ill t ak e you thr ough> click N e w d at a s ou r c e > select Googl e W ork s p ac e.th e step s .
+
+Connect Google Workspaceto Sola This integration links a Google Cloud Platform (GCP) service accoutnt wih a Google Workspaceuser.
+
+It allows Socredentials.
+
+la to impersonate workspaceusers and securely syncttheir data wihoutneeding individual83Google Cloud Platform (GCP) Prerequtisies• GCP project with owner permissions - Use an existing projecttinegration.
+
+or create a new one for this Google Workspace Prerequtisies• Super adminuser - Requ• Adminuser - Use an existing Admin role permissions. Theired for tthe iniial integration setup, and will notbeused by Sola.
+
+user or create a new one for this integrattion, wih at least a Grouser must log into Google Workspace at leastonce.
+
+Explorethe app gallery for Google Workspace appsGet startted wih Google Workspace-focused secturiy apps , builtby our expert team.up84GitHu ConnectSob Clola and GitHuudb Cluodto get secturiy insightsOverview The GitHub Cluod integration connects data from yoeasyto search and find answers to your specificur GitHuuse cases.
+
+b account to your Sotla workspace, making i The GitHub integration gives you a complete view of your GitHuand analyze GitHub secturiy posture and pottenial threats.
+
+b organization, allowing you tto moniortWithhe GitHub integration, youcan:• Gain ftull visibiliy intto reposiory access and permissions.t• Monior secturiy policies, including branch prottecion and organization settings.
+
+• Track and manage Dependabott vulnerabiliy alerts.
+
+• Ensure secturiy best practices for your GitHub organization.Your data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up GitHub data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > select G it Hub Cloud.
+
+Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .la Connect GitHubto Sola To connect GitHub Cluod, yoaccess tto all reposiories in you’ll need a GitHub accounur GitHub organization.tt wih organization owner permissions or admin85GitHub App Recommended for secure, produtcionuse.
+
+This method leverages a GitHub App to grantSola temporary, permissioned access to your GitHuresources, atteiher tthe reposiory or organization level, based on your choice. It minimizes risksassociatted wih personal tokens and long-term credentials by enforcing strict, scoped access.b• GitHu Install Sob App (Recommended)la’s GitHub App to securely and easily grant access to your organization’s GitHub data.
+
+• Custom GitHub App Create and install your own GitHu(see how-to guide below)b App for full controlover permissions and configurationNot su r e w hich m ethodmost reliable setup.to choos e? We recommend startting wihthe GitHub App for the fastest andAccess Token Personal access to Required scopes:• repo• read:org• read:user•user:email• gist• read:projecttken wih read permissions.
+
+86How do I set up a GitHub data sourceusing custom GitHub App?
+
+CompletGitHueb Clothe foud.llowing steps to set up and configure your GitHub App to integrate Sotla wih Learn more aboutcreating GitHub Apps .
+
+1. Create and configure your GitHub App• Log in Ap p s .to your GitHub account and goto G it Hub S etting s > D e v elop er s etting s > G it Hub• Click N e w G it Hub Ap p , and set:◦ App Name: Sola Integration (recommended)◦ Homepage URL: https://app.sola.secturiy◦ Webhook: Unchecktcive (No webhook required)◦ Permissions: We recommend providing R e a d-tOnl y permissions for all reposiory andorganization related permissions.
+
+▪ To access GitHub workflows, yotu will need at least R e a d & W r ie permissions.
+
+▪ For valuable insights, provide access to at least the following scopes:A• repository:administration• repository:metadata• repository:webhooks• organization:administration• organization:webhooks• Click C r e ate G it Hub Ap p and savethe Ap p I D .
+
+2. Generate a Private Key• In your newly created app settings, navigatteo G en er al> P r iv ate K e ys .
+
+• Click G en er ate a p r iv ate k e y.
+
+• Securely storethe downloaded .pem file. This is your GitHub App private key.
+
+3. Install the GitHub App• Inthe app settings, gottohe I nst all Ap p tab.
+
+• Select the organization or account where yo• Click Install and confirm the installation.
+
+u want to install the app.
+
+4. Getyour installation ID87tAfer installingthe app, you will be redirectttedohe installation page:https://gituhb.com/settings/installations/<app_installation_id>• Copy and savethe <app_installation_id>.
+
+5. Provide your credentials to Sola Complettehe integration by providingthe foGitHub App IDGitHub App Installation IDGitHub App private key (.pem file)llowing parameters inthe Sola wizard: Sync behavior and limitations Sometables have specific sync constraints duteo data size, retenconsiderations. Below are special cases to be aware of:tion policies, or performance Table Sync detailstugihtugihtugihtugihtugihtugihtugihb_commit Includes data from the last 1 month.
+
+b_actions_artifact Includes data from the last 3 months.
+
+b_issue Includes data from the last 3 months.
+
+b_issue_comment Inherits the 3-montth limicomments are linkedto issutfrom giuhes.
+
+b_issub_pull_request Includes data from the last 3 months.
+
+b_release Includes data from the last 3 months.
+
+b_tag Includes data from the last 3 months.
+
+e, as Explorethe app gallery for GitHub Cluod appsGet startted wih GitHub-focused secturiy apps , builtby our expert team.
+
+8889Okta ConnectSola andOkta to get secturiy insightsOverview The Okta integration connects data from yosearch and find answers to your specificurOkta accouse cases.unt to your Sotla workspace, making ieasyto The Okta inallowing yotegration provides a complete view of your identtiy and access across you tto monior and analyze Okta secturiy posture and pottenial threats.
+
+ur organization,tWithhe Okta integration, youcan:t• Gain visibiliy intouser identtiies, groups, and roles.t• Monior• Ensure• MainOkta acttiviy and getinsights into configuration settings.
+
+users and applications only havethe access they actually need.
+
+tain secturiy best practices for yourOkta environment.Your data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet upOkta data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > selectOkt a .
+
+Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .la Connect To connectO API Token This methodresources.Okta to Solakta, you’ll need anOkta admin account.
+
+uses an API token to securely grantSola read-only access to yourOkta services and9Explorethe app gallery forOGet startted wihOkta-focused secturiy apps , bukta appsiltby our expert team.
+
+91MongoDBA ConnectSola and MongoDBtlastlas to get secturiy insightsAOverview The MongoDBtlas integration connects data from your MongoDBtlas accountworkspace, making ieasyto search and find answers to your specificuse cases.At to your Sola The MongoDBtlas integration gives you a complete view of your MongoDB environmentto monior and analyze MongoDB secturiy posture and pottenial risks.At, allowing yotWihthe MongoDBAtlas integration, youcan:• Gain insights into MongoDBuser roles, access permissions, and authent• Monior network exposure and cluster secturiy configurations.
+
+• Track user acttiviytrends.
+
+• Ensure secturiy best practices for your MongoDB environment.tication methods.AuYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up MongoDBAtlas data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > select MongoDBtl a s .
+
+Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .
+
+Connect MongoDBtlas to Sola To connect MongoDBtlas.Atlas, you’ll need a MongoDBtlas accountt wih organization owner access tolaAAAA92API Key This methodservices and resouses anurces.
+
+API key to securely grantSola read-only access to your MongoDBAtlas Explorethe app gallery for MongoDBGet startted wih MongoDB-focused secturiy apps , builtby otlas appsur expert team.A93Wiz ConnectSola and Wiz to get secturiy insightsOverview The Wiz integration connects data from your Wiz accosearch and find answers to your specificuse cases.unt to your Sotla workspace, making ieasyto The Wiz integration provides a complete view of yoanalyze secturiy posture and potential risks.
+
+ur Wiz environment, allowing yotWihthe Wiz integration, youcan:t• Gain visibiliy into secturiy issues across your Wiz projects.
+
+• Identify misconfigurattions, vulnerabiliies, compliance risks, and other findings.
+
+• Get a centralized view ofthe mosttcriical issues detteced by Wiz.t• Monior access controls and manage service accounts.
+
+• Consolidate Wiz insightts wih other secturiytools for cross-platform analysis.
+
+u tto monior andYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up Wiz data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > select W iz .la Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .
+
+Connect Wiz to Sola To connect Wiz, yoconfigure a service accou’ll need a Wiz admin accountt wihthe read:all scope permissions to create andunt.
+
+94Service Autccon This methodfindings, issuuses a Wiz service accoes, and configurations.unt to securely grantSola read-only access to your Wiz Explorethe app gallery for Wiz appsGet startted wih Wiz-focused secturiy apps , builtby our expert secturiyteam.
+
+95WordPress ConnectSola and WordPress to get secturiy insightsOverview The WordPress integration allows you to enrich Sotla Apps wih issues fotwebsites, scanning for common vulnerabiliies and misconfigurations.
+
+Add yoposture of yotur WordPress websie URLs tuoncover hidden risks and conur putblic WordPress websies.tinuotWihthe WordPress integration, youcan:• Gett visibiliy into secturiy risks across all pu• Uncover hidden exposures tthat tradiional toot• Monior the secturiy posture of your assets over time• Surface exposed admin panels and login endpoints• Trackheaders and secturiy best practice compliancetblic WordPress siesls can missund for your WordPresstusly monior the secturiyYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up WordPress data source inGoto I nte g r ations > D at a Sou r c es > click N e w d at a s o Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .tegrattion wih Sou r c e > select W or d P r es s .la Connect WordPress to SolaAnalyze yotur WordPress websies using one oftwo verification methods to confirm ownership and beginscanning for secturiy issues.
+
+96Email domain matchingAutomatic verification This method matches the domain oftthe WordPress sieSola account.u• Qick and easy setuptothe email domain associatted wih yourtOnly websies matching your verified email domain can be scannedusingthis method.
+
+For example, if you signed*.mysecurityorg.com (yow p . m ys ectu r iyor g . com .tup wih n a m e@ m ys ectu r iyor g . com , Sour domain and any subdomains), sula willonly be ableto scanch as blog . m ys ectu r iyor g . com or HTTP verificationusing a TXT file This method allows HTTP verification byuploading a TXT fileto yo• Flexible and secure for multti-sie environments How to set up HTTP verification: Uploadthe provided UUID inunder the following path:the Sola wizard as a s otur websie.
+
+l a -v er ific ation.t xtfileto yotur WordPress sie/.well-known/sola-verification.txt For example: https://my-wordpress-site.com/.well-known/sola-verification.txt Explorethe app gallery for WordPress appsGet startted wih WordPress-focused secturiy apps , builtby our expert secturiyteam.
+
+97ASola Web Checkernalyze extternal domains, websies, and internet-facing infrastructureto get secturiy insightsOverview The Sola Web Checker integration allows you to enrich Sotla Apps wih data from your external domains, URLs, and hostendpointts, scanning for common vulnerabiliies and misconfigurations.
+
+Add yoand conur domains, URLs, or IP addresses tuoncover hidden risks, validatte criical secturiy protutinously monior the secturiy posture of your public assets.ttecions,tWithhe Sola Web Checker integration, youcan:t• Monior TLS protocol versions, cipher suties, and encryption strength• Detect missing or misconfigured HTTP secturiy headers• Track certificatte validiy, expiration, and best practice compliance• Iden• Contify weak configurations and DNS record issutuinously assess domain posture over timeesYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up Web Checker data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > selectSol a W eb C h eck er .
+
+Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .la Add domains, URLs and hostendpointsAnalyze DNS records, secturiy and response headers, certificates, TLS, and puadding your organization’s publicly facing web assets.tblic accessibiliy by98Explorethe app gallery for Sola Web Checker appsGet startted wih Soteam.
+
+la Web Checker - Domain Insights secturiy apps , builtby our expert secturiy99A Lovable App Scannernalyze Lovable apps to dettecendpoint, autthenication, and exposure risksOverview The Lovable App Scanner integration brings secturiy insights from applications buplatform Lovable.dev into Sotla for analysis and monioring.
+
+iltonthe no-code This integration enables external scanning of your live Lovable apps.tWihthe Lovable App Scanner integration, youcan:• Gett visibiliy into secturiy risks across public Lovable appst• Uncover vulnerabiliies, misconfigurations, and hidden exposures• Get actionable insights to improve your secturiy postureYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up Lovable App Scanner data sotwih Solaurce integrationGoto I nte g r ations > D at a Sou r c es Th e Sol a w iz a r d w ill t ak e you thr ough> click N e w d at a s oth e step s .
+
+u r c e > select Lov a bl e Ap p Sc a nn er .
+
+Add Lovable app public URLs Uncover pottenial secturiy risks and conmodifying your live app.tuinotusly monior their external secturity posture, wihout Explorethe app gallery for Lovable App ScannerGet startted wih Lovable App Scanner - Secturiy Posture , builtby our expert secturiyteam.
+
+11 1CSV File Upltoad CSV files wih custom datasets for analysis and insightsOverview The CSV File integration allows yo Leverage your own data across Socustom datasets.tWithhe CSV file intinegrations.tegration youu to bringunique datasets into Sola byuploading structured CSV files.tla’s capabiliies touncover insights, and analyze pattterns wihin yourcan bring in custom datasets to explore insights beyond standardYour data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up CSV File data source inGoto I nte g r ations > D at a Soof screen).
+
+u r c es > click N e w d at a s o Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .tegrattion wih Solau r c e > click the U plo a d C SV button (top right Add CSV filesStartexploring your own data instantly, no connectors or integrations required.
+
+1 2Zoom ConnectSola and Zoom to get secturiy insightsOverview The Zoom integration connects data from yosearch and find answers to your specificur Zoom accouse cases.unt to your Sotla workspace, making ieasy The Zoom integration provides a comprehensive view of your Zoom environmenmeetings, and settings tto monior secturiy posture and compliance.tincludingusers, rotWih Zoom integration youcan:t• Gain visibiliy into configuration changes• Enforce secure collaboration policies and secturiy best practicest• Ensure compliance wih internal policies and industry standardstoles,Your data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up Zoom data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > select Zoom .
+
+Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .la Connect Zoom to So To connect Zoom to Sola, youcreating Server-to-ServerOlaAneed a Zoom accountt wihOuth apps inthe Zoom Marketplace.
+
+wner or Admin permissions that allow1 3How do I set up a Zoom data sourceusing Server-to-ServerOAuth app?
+
+Complettehe fo Zoom.llowing steps to set up and configure your Zoom app to in1. Sign into your Zoom account.
+
+2. Goto Build App in Zoom Marketplace , select S er v er -to-S er v erO3. Namethe app and click C r e ate.
+
+4. Copy and savethe generatedu•cconAt I D• Cl i ent I D• Cl i ent S ec r et5. Completethe I nfor m ation and F e atu r e steps.
+
+6.Addthe following scopes:• account:read:lock_settings:admin• account:read:trusted_domains:admin• account:read:managed_domains:admin• account:read:settings:admin• group:read:list_members:admin• group:read:list_groups:admin• meeting:read:list_meetings:admin• cloud_recording:read:listuser__recordings:admin• role:read:role:admin• role:read:role:master• role:read:list_roles:admin• role:read:listmembers:admin_• user:read:user:admin• user:read:list_users:admin7.Atcivattehe app.
+
+8. Complettehe integration by providingthe following parameters inthe Sou•cconAt I D• Cl i ent I D• Cl i ent S ec r et9. Click T est Conn ection to validattehe details, then click N e xt to contuin Learn more aboutcreating a Server-to-ServerOuth app .tegrate Sotla wihAuth, and click C r e ate.
+
+la wizard:e.A1 41 5Jira Cluod ConnectSola and Jira Cloudto get secturiy insightsOverview The Jira Cluod integration allows you to enrich Sotenhanced visibiliy and operational insights.tla apps wih project and issuetracking data for The Jira Cluod integration imports data on projects, issues, tasks, boards, sprints, users, groups,permissions, audit records, and more. This provides secturittyeams with visibiliy into accessconfigurations and administrative changes, alongside development acttivityhat may affect secturiyposture.tWithhe Jira Cloud integration, youcan:t• Gain visibiliy into Jira projects, issuimpact secturiy.
+
+es, and sprints tounderstand development acttivityhat mayt• Monior Jira permission schemes, roles, and secturiy levels to ensure proper access controls.
+
+track administrative changes and supporttcompliance monioring.
+
+• Review Jira audit records to•nalyze Jira boards and sprinAts to identify bottlenecks thatcould delay secturiy-related work.Your data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up Jira data source integrattion wih SoGoto I nte g r ations > D at a Sou r c es > click N e w d at a s ou r c e > select J ir a Clolaud.
+
+Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .
+
+Connect Jira to Sola To connect Jira Cluod, youneed a Jira accounaccess, including secturiy, projects, users and groaccess.tt wih permissions accordingttohe data youps, and boards, ensuring secure and conu wantrot tolled data1 6Jira App This method leverages a Jira App to securely grantSoresources. It minimizes risks associatted wih personal tostrict, scoped access.
+
+la read-only, permissioned access to your Jirakens and long-term credentials by enforcing When promptted, sign in wih your Jira administrator account and approvethe requested access.
+
+1 7Cluo ConnectSodflarela and Cluodflareto get secturiy insightsOverview The Cluodflare integration connects yofind answers to your specificuse cases.
+
+ur Cloudflare environment to Sotla, making ieasyto search and The Cluodflare integrattion provides visibiliy into accounts, services, and configurattions for monioringsecturiy posture, allowing you tto monior and analyze access controls, account settings, trafficmanagement, policy enforcement, and audit logs.tWih Cloudflare integration youcan:t• Gain visibiliy into access policies and accountconfigurations.t• Monior and analyze DNS, load balancing, andtraffic management.t• Review page rules, workers, and zones for compliance wih best practices.
+
+• Track user acttiviy and audit logs across your Cloudflare environment.Your data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up Cloudflare data source inGoto I nte g r ations > D at a Sou r c es > click N e w d at a s otegrattion wih Sou r c e > select Cloud fl a r e.la Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .
+
+Connect Cloudflareto Sola To connect Cloudflare, you’ll need a Cloudflaretuser wih an administrator role.
+
+1 8API Token This metand resohoduses anurces.
+
+API token to securely grantSola read-only access to your Cloudflare services1 9Sen ConnectttSoinelOla and SenneinelOneto get secturiy insightsOverview The SentinelOne integration connects endpoint secturiy data to yosearch and find answers to your specificuse cases.
+
+ur Sotla workspace, making ieasyto The Sentenabling yoacross yoinelOne integration provides a comprehensive view of you tto monior endpoint agents, analyzethreattdeur organization.
+
+ur endpointecions, andtrackt secturiy environment,overall secturiy posturetWithhe SentinelOne integration, youcan:t• Gain visibiliy into endpoint agents andthreatdettecion events.t• Monitor vulnerabiliies, applications, and dettecion rule acttiviy.
+
+t policies.
+
+• Review secturiy managemen• Track and analyze endpoint acttiviy across your environment.Your data can only be retrieved, never modified.Once connected, yometadata only. Authenttinegriy.
+
+ur data is securely stored, and access is restricttedo retrieving configurations andtication methods ensure secure delegation of permissions while maintaining dataSet up SentinelOne data source inGoto I nte g r ations > D at a Sou r c es > click N e w d at a s o Th e Sol a w iz a r d w ill t ak e you thr oughth e step s .
+
+To connect SentinelOne, you’ll need a SentinelOnetenan API Token This methodservices and resouses an API tources.
+
+ken to securely grantSotegrattion wih Sou r c e > select S entin elOn e.latt wih an administrator user.
+
+la read-only access to your SentinelOne11Connectors ConnectSola to external services and gain real time acttionabiliyAtconnecor is an inactions, directlythrotegrationugh in-chatthat allows Sola to interactt wih external services in real timeto performSola AI conversations.
+
+Connectors areusedto:• Share findings during analysis and investigation• Support remediation and incident response by escalating issu(Sola users or not)•fflOoad insights to relevantchannels in your organizationes directlytothe right stakeholders Learn more aboutdata privacy .
+
+Available connector integrations Slack Jira N e w conn ector s onth e w a y Triggering connectorstAfer adding a connector to your workspace, youcan add it to apps.
+
+Connectors are automaticallyttriggered wihinthe Sola AI chat to:• Share findings, insightts, and results witheammates via Slack.
+
+• Createtickets and epics in Jira (coming soon).
+
+111Sola AI prompt tip Connectors enablethese actions instantly during conversations.
+
+For example, ask Sola AI to:“ S endth etop 3 m osttc r iic al is sues to m y S ecOp s Sl ack ch a nn el , ttog eh er w ith r em edi ation step s ” .
+
+Permissions and actions Connectors require permissiontto access, read, or wrie data in external systems.
+
+There arethree levels of guardrails, workspace, app, and chat.
+
+1. Workspace level Configure connector permissions and scopes when addingthe connector to yo• Sola App comes pre-configtured wih required permissions.
+
+• Custom app includes a setof recommended permissionsNote: Not applyingtthe recommended permissions may limiuttfncionaliy or prevenactions from working as expected.
+
+2.App level Control which apps canuse a given connector. Apps mustbe explicitly connected.
+
+ur workspace.tcertain3. Chat level When an in-chatconversationtriggers an acttofhe following permissions:ionthatneeds external access, Sola will prompt• Deny•llow once•llow for this chatfor oneAA FAQs What’s the difference between connectors and data sources?
+
+Data sources bring in and save large datasets into Sola for querying and analysis.
+
+Connectors areusedto enrich, validate, or acton data in real time.
+
+Can I use connecttors wihout a data source?
+
+112Yes. Connectors areusedto send information from Sodata source being connected.
+
+la to external services, this does notdepend on a Do connectors affect my data quota?
+
+Connectors do not sync or store structured records and do notquota. However, they can indirectly affecttoher limits such as yoinformation, see Sola pricing .counur Sot toward yola AI requur data source recordsests per week. For more113Slack ConnectSola and Slack to get secturiy insights The Slack integration brings Sola AI directly inand participate in secturiy conversations.to Slack, enabling it to provide insights, escalate issu The Slack integration allows you to join puteams stay informed andtake action in conblic channels, read messages, and send messages to helptext.tWihthe Slack integration, youcan:• Enable real-time collaboration and assistance directly from Sola inside Slack.
+
+• Receive secturiy alerts and insightts without swichingtools.
+
+• Keep teams aligned on secturiy actions, investigations, and decisions.
+
+es,Sola can only perform the actions you approve.
+
+Connectors require explicit permissionto access or acton external systems. Permissions are securelymanaged at the workspace, app, and chat level to ensure control atevery step.Set up Slack connector integrattion wih SoGoto I nte g r ations > Conn ector s > click N e w conn ector > select Sl ack .
+
+The Sola wizard will take you throughthe steps.la Connect Slack to Sola To connect Slack, you’ll need a Slack accountt wih a full member Slack role or higher.
+
+114Slack App Recommended for secure, produtcionuse.
+
+This methoduses a Slack App to grantSoworkspace. It reduces the risks associatted wihgranular permission scopes andusing Slack’sOla scoped, permission-based access to youser tokens and long-lived credenuth-based autthenication.
+
+ur Slacktials by enforcing• Slack App (Recommended) Install Sola’s Slack App to securely and easily granworkspace.
+
+• Custom Slack App Create and install your own Slack App for full con(see how-to guide below)t access to your organization’s Slacktrolover permissions and configurationNot su r e w hich m ethodmost reliable setup.to choos e? We recommend startting wihthe Slack App for the fastest andA115How do I set up a Slack connector using custom Slack App?
+
+Complettehe fo Slack.llowing steps to set up and configure your Slack App to integrate Sotla wih Learn more aboutcreating Slack Apps .
+
+1. Create your Slack App• In yo• Set anur Slack apps page , click C r e ate N e w Ap p , and select F r om s c r atch.
+
+Ap p N a m e (Sola Integration), select a workspace, and click C r e ate Ap p .
+
+2. Configure permissions• Goto• AddutOh & P er m is s ions > Scop es > Bot T ok en Scop es , select Add a nutOh Scop e.the following required scopes:◦ assistant:write - Allow Sola to act as an app agent.
+
+◦ channels:history - View messages and other conttenin public channels thatSolahas been addedto.
+
+◦ channels:join - Join public channels in a workspace.
+
+◦ channels:read - View basic information about public channels in a workspace.
+
+◦ chat:write - Send messages as @Sola App.
+
+◦ emoji:read - View custom emoji in a workspace.
+
+◦ groups:read - View basic information about private channels thatSola has beenaddedto.
+
+◦ im:read - View basic information aboutdirect messages thatSola Secturiy has beenaddedto.
+
+◦ reactions:read - View emoji reactions andtheir associated conttenin channels andconversations thatSola Secturiy has been addedto.t◦ reactions:write - Add and ediemoji reactions.
+
+◦ users.profile:read - View profile details about people in a workspace.
+
+◦ users:read - View people in a workspace.
+
+◦ users:write - Set presence for Sola.A3. Install the Slack App• Goto I nst all Ap p , click I nst all to W ork s p ac e, and copy your Bot U s erOuth T ok en.
+
+4. Pasttehe Bot U s e rOuth T ok en inthe Sola wizard.AAA1165. Click T e st Conn ection to validattehe details and continue.
+
+117Jira ConnectSola to Jira tto expedie remediation The Jira integration brings Soissues directly from in-chatla AI into yoconversations.
+
+ur Jira projects allowing you to create, update, andtrack Jira The Jira integration helps streamline remediation managemenactionable work, keepingteams aligned and responsive.tbyturning your secturiy findings intotWihthe Jira integration, youcan:• Turn secturiy findings into Jira epics, tasks, or stories directly from So• Route issues ttohe right stakehotlders wih relevanttconextfor resot• Monior issute status, transiions, and comments, from dettecionla AI conversations.
+
+lution.to closure.Sola can only perform the actions you approve.
+
+Connectors require explicit permissionto access or acton external systems. Permissions are securelymanaged at the workspace, app, and chat level to ensure control atevery step.Set up Jira connector integrattion wih SoGoto I nte g r ations > Conn ector s > click N e w conn ector > select J ir a .
+
+The Sola wizard will take you throughthe steps.la Connect Jira to Sola To connectt Jira, inot a personal accois recommendedtouse a dedicated organizationunt. For example, s ol a .jir a .u s er @ com p a ny . com .
+
+user account, for the Sola connector, and Jira App Recommended for secure, produtc This methoduses a Jira App to granionuse.tSola scoped, permission-based access to your Jira account.
+
+• Jira App (Recommended) Install Sola’s Jira App to securely and easily grant access to your organization’s Jira account.
+
+118API Token This methoduses a Jira API tokento securely grant Theoken includes the following classic scopes:• read:jira-user• read:jira-work• write:jira-worktSola access to your Jira account.
+
+Available acttions withhe Jira connector• Create issue - Create a new Jira issue (Task, Bug, Story, Epic, ettc.) wih summary, description,assignee, components, and custom fields.
+
+• Update issue - Update an existing Jira issue summary, descripttion, prioriy, assignee, or labels.
+
+• Getissue - Retrieve detailed information about a specific Jira issue by its key.
+
+• Get projects - List all accessible Jira projects.
+
+• Getissuteypes - List available issuteypes (Task, Bug, Story, Epic, etc.) for a specific project.• Add comment- Add a comment to an existing Jira issue.
+
+• Getcomments - Retrieve comments for a specific Jira issue.
+
+• Transition issue - Changethe status of a Jira issue (e.g., moveto In Progress, Done, Closed) using attransiion ID.
+
+• Get transittions - List all possible status transiions for a Jira issue.
+
+• Search fields - Search for available fields inthe Jira instance (e.g., custom fields).
+
+• Create issue link - Link two Jira issues ttogeher (e.g., “relates to”, “blocks”, etc.).
+
+• Link to epic - Link an issuteo an Epic.
+
+• Batch create issues - Create multiple Jira issues in a single batch operation.
+
+• Get link types - List all available Jira issue link types.
+
+• Get projectissues - Listissues for a specific Jira project.
+
+• Search issues - Search for Jira issues using JQL (Jira Query Language).
+
+• Get user profile - Retrieve a Jira user’s profile by identifier (accountId, username, or email).
+
+119System Management12Settings View and managethe settings to your Sola account, workspaces and apps There aretwotypes of settings categories in Sola: account settings and workspace settings.
+
+To access your Sola settings, click S etting s from the sidebar.
+
+1. Aucco This is where yoactivation.nut settingscan manage your personal Sola accoutnname, email, password, and AI assistantSola AI assistant Enable or disablethe optionto skip the Sola AI assistant when you are creating new queries.
+
+2. Workspace settings This is where youcan manage your general workspace name, members, and more.
+
+Memberst Workspace owners and admins can invie new members to a workspacetdefineheir roles.
+
+using a linkor by email, and Leaving a workspace A workspace requires at leastone owner. When leaving a workspace, you must assign a new owner.
+
+Deleting a workspace Workspace owners can delette a workspace when iis nolonger needed. Deleting a workspacepermanently removes all workspace information and associated data.Once a workspace is deleted, all members will lose access, and this action cannotubendone.
+
+121Roles and permissions There aretwotypes of roles and permissions levels: workspace permissions and app permissions.
+
+Workspace permissionsRoletype Permission descriptionOwner Full access to manage all workspace settings, members,tinegrations, and apps.
+
+Admin Manage workspace settings, members, integrations,and apps you are an admin of. Excludes plan, billing,and password reset.
+
+Member View workspace settings, members, inapps.tegrations, and App permissionsRoletype Permission description Admin Full access tto manage members, add/edi/delete apps,queries, canvases, and alerts.t Contributor View app info, add/edi/delete queries, canvases, andalerts.
+
+Viewer Read-only access to view queries, canvases, and alerts.
+
+3. Privacy and secturiy settings This is where youcan manage your accounsession acttiviy, and Single Sign-n (SSO O).
+
+t settings, including password, authentication methods, To manage your privacy and secturiy settings, goto S etting s > P r iv ac y a nd S ectu r iy.
+
+• MyucconAt- Multi-factor authentication, password, Login sessions• Workspace (applicable for admin and owner users) - Auccont secturiy, secturiy check up Single Sign-On (SSO)122Workspace owners can configure SSOttideniy provider (IdP).to allow members to sign into Sola usingtheir organization’sGoto S etting s > P r iv ac y a nd S ectu r iy > SSO, click “S etu p SStconn ecion” tOo opennew connection.the wizard and add a Available connection options:• SAML:Okta, Azure AD, Google,O•OpenID:Okta, CustomOpenIDneLogin, Ping Identtiy, JumpCloud, Rippling, Custom SAMLOnce configured, SSOcentralizes authentication and improves access secturiy across your workspace.
+
+FAQs Can I recover a deleted workspace?
+
+No. Deleting a workspace is permanent and cannotubendone.
+
+123Resources124Glossary125FAQs Find answers to your top questions Browseugide yothe FAQs below or type your question inthe search box at thetop right, and ou.
+
+ur AI assistant willut AboSola What’s unique aboutSola?Sola isn’tjust another secturiyspeed, and collaboration.tool. It’s a new wayu• Bild secturiy solutions, your way. No need for an engineeringteam.
+
+• Create secturiy apps tailoredto your needs using So• From questions to answers, fast. Ask, analyze risks, andla AI or SQL.
+
+trigger alerts.
+
+• Designed for teams. Share insights, track findings, and collaborate.Sola helps you move from secturiy gaps to solutions, faster than ever.to build secturiy soluttions, designed for flexibiliy, How much does Sola cost?Sola is free for all users duringtthis iniial beta phase. Some limitations applytsustainable, butour goal is to empower you to explore and butild wih Sola.okeep things fair andSola will always remain affordable and accessible as we grow.
+
+For more dettails, visiour pricing page .Sola Concepts What are apps, and how should I buildthem?
+
+A Sola app is a custom secturiy solution youubild based on youur needs. Each app ftncionsindependently and is built to answer your secturiy questions across differentdomains.
+
+126There’s no single wayprefer:to structure your apps. Sola gives you tthe flexibiliyto organizethem however you• By secturiy domain. For example, Identtiy and A• By vendor. For example, AWS Secturiy, GitHut• Byeam. For example, StO C Team Monioring, CISOccess Management, Cloud Secturiy.
+
+b Secturiy.
+
+Dashboard.
+
+Whether yoand you’re buur use case.
+
+ilding a single-use app or a more complex multi-source secturiy solution, it’s up to yo Apps connect to relevantdata soturces and can be shared wih your team for collaboration.u Who is considered a workspace member?An organization can have multiple workspaces, andusers can be members of one or more. As aworkspace member, your role and permissions determine whatuyocan do. Whether it’s managingsetttings, inviing members, building or viewing apps.
+
+Do youtneedoknow how to code or SQL to build a secturityool inSola?SoSoqutla offers a no-code experience, making ieasyto create secturiy apps using natural langtuage wihla AI. Youcan ask secturiy questions, uncover insights, and set up alerts—no coding required. Starttickly wih ready-to-use apps from the App Gallery, builtby our expert secturityeam.
+
+What should I do if I don’thave access to connect a data source?Inthe meantime, youcan explore Sola using a sandbox environmentor placehofeatures and gettfamiliar withhe platform before connecting your own data.
+
+lder data sourcetotest Privacy and Secturiy Is my data secure?Souphola is buldiltby secturiy people, for secturiy people. Secturiy is at the core of everything we do. Wethe highestindustry standards to prottecyour data, systems, and operations.
+
+127Your data is encrypted at rest and intransitt, wih access strictly conautthenication and authorization process.
+
+trolledthrough a secure Learn more aboutour secturiy practices in Sola’s Trust Center .
+
+Where is my data stored?Sola only provides a managed service. Yocompliance and audit standards.tur data is saved wihin Sola databases, accordingtoAA What access do youhaveto my data?Soyola has read-only access to your data and cannot modify or delete any information.Once connected,ur data is securely stored, and access is restricttedo retrieving configurations and metadata only.utthenication methods ensure secure delegation of permissions while maintaining data inttegriy.
+
+lso, youcontrol which data is synced by enabling or disabling specificttables wihin your data source.
+
+Is So Yes, Sola Secturiy SO C 2 certified?
+
+la Secturiy is SO C 2 certified.Sola has successfully complettedhe SO C 2 Type II audit, which demonstrates our commitment tomaintainingthe highest standards for secturity, availabiliy, and confidenttialiy. This independent third-party assessment validates thatour systems and processes are designed and operattedo safeguardcustomer data.
+
+Learn more aboutocompliance documenur other key industry certifications, sutation, inthe Trust Center .
+
+ch as ISO27001, and our latest secturiy and Does Sola support Single Sign-n (SSOO?) Yes. Sola supports SSO Azure AD, Google,Ovia SAML andneLogin, Ping IdentOpenID, wih integrations for identtiy providers suttiy, and JumpCluod. Configure SSOin Settings.
+
+ch asOkta,Sola AI How does Sola AI assistant use my data?
+
+128Sola AI assistantaccordingto ollfoows strict secturiy practices tour standard secturiy policies .
+
+keep yoSosola AI assistantdoes not use yolelyto generate responses and is nour data totrain our models. At retained for training purposes.
+
+ur data safe. Your data is stored securelyny data processedthrough Sola AI is used Can I enable or disable So Yes. Youcan enable or disablethe optionla AI?to skip the Sola AI assistant when creating new queries.
+
+129
+

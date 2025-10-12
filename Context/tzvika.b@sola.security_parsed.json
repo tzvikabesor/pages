@@ -1,0 +1,765 @@
+{
+  "total_events": 1195,
+  "upcoming_events": [
+    {
+      "date": "2025-09-11 08:00",
+      "summary": "Pricing sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 08:30",
+      "summary": "Q4 Planning - Only PMs",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 09:00",
+      "summary": "Marketing / Security / Product: Canvases 2.0 release",
+      "description": "Please make an effort to join this session <b>it is critical fo",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 10:00",
+      "summary": "Out of office",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 14:30",
+      "summary": "Weekly: Idan / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 15:00",
+      "summary": "AI Sync + CTO Tasks refinement",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 15:15",
+      "summary": "Stripe sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-11 17:45",
+      "summary": "ערב צוות מרקטינג+פרודקט - מסעדת בלאקאאוט 🌑 🍽️",
+      "description": "<a href=\"https://nalagaat.org.il/blackoutrestaurant/\">https://n",
+      "location": "Nalaga'at Center\\, רציף העלייה השנייה\\, נמל יפו חניה קרובה:\\, חניו",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-12 13:11",
+      "summary": "Instant meeting",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-14 10:30",
+      "summary": "Q4 Planning - PM <> RnD - Session #4",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-14 11:30",
+      "summary": "Sola Weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-14 12:00",
+      "summary": "Posthog",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-2 - Wonder Woman (4)",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-14 14:00",
+      "summary": "Rosh Hashanah Toast 🍎🍯✨",
+      "description": "<p>Hi everyone\\,</p><p>We are inviting you to a festive toast i",
+      "location": "Chez Vivie\\, Dizengoff St 166\\, Tel Aviv-Yafo\\, 6346201\\, Israel",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-14 15:30",
+      "summary": "Sola | Sprint Planning",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-15 09:15",
+      "summary": "Billing high-level flow",
+      "description": "Goal of the meeting: Align on main flows\\, systems and entities",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-15 10:15",
+      "summary": "Q4 planning - finalizing",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-15 12:00",
+      "summary": "Tzvika / Shlomi - Q4 and 2026",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-15 14:00",
+      "summary": "Product weekly team meeting",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-15 17:30",
+      "summary": "canvas2 sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": true
+    },
+    {
+      "date": "2025-09-15 18:00",
+      "summary": "canvas2 sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-16 06:00",
+      "summary": "אורלי (בזום)",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-16 13:00",
+      "summary": "Marketing+Product sync",
+      "description": "Hi all\\, join us for a short sync to share the release plan\\, w",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-16 13:30",
+      "summary": "צביקה בשור וסאלי",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-16 15:00",
+      "summary": "Out of office",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-16 15:45",
+      "summary": "Weekly Feature Request",
+      "description": "Scheduling this reoccurring meeting in order to quickly go over",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-16 16:00",
+      "summary": "Familya",
+      "description": "",
+      "location": "",
+      "recurring": true
+    },
+    {
+      "date": "2025-09-17 07:30",
+      "summary": "Product Fruits",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-17 08:00",
+      "summary": "AI usage/credits/cost",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-17 08:00",
+      "summary": "Canvas2 Sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-17 09:30",
+      "summary": "Canvas2",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 07:00",
+      "summary": "Improving AI thinking experience - Cursor",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 07:30",
+      "summary": "Sola-Next insurance",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 08:45",
+      "summary": "sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 11:00",
+      "summary": "Shlomi / Tal/Noa - Roadmap to Revenue",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 12:30",
+      "summary": "Tzvika/Noa/Tal - Roadmap to Revenue",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 14:30",
+      "summary": "Weekly: Idan / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-18 16:30",
+      "summary": "AI Sync + CTO Tasks refinement",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-20 08:00",
+      "summary": "Sola Valley of Springs Family & Friends Outing",
+      "description": "<p><b>After the summer break and before the holidays\\, I’m plan",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 07:00",
+      "summary": "Lior / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 09:00",
+      "summary": "Meeting the Sola Team (Chandrasekar Rathinam)",
+      "description": "<b>Booked by</b>\\nChandrasekar Rathinam\\nc.rathinam@fpmarkets.c",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 10:00",
+      "summary": "Noa / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 11:00",
+      "summary": "Lior / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 12:00",
+      "summary": "Sola Weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 13:30",
+      "summary": "Out of office",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 16:00",
+      "summary": "Tzvika / Shlomi - Bi weekly coffee and sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-21 21:00",
+      "summary": "Out of office",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-22",
+      "summary": "Vacation",
+      "description": "Vacation\\; 2025-09-22 - 2025-10-08",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-22 16:00",
+      "summary": "Family time - Hagar",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-22 16:00",
+      "summary": "Aligning on projects - Tzvika / Adi",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-22 17:30",
+      "summary": "canvas2 sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-23 15:45",
+      "summary": "Weekly Feature Request",
+      "description": "Scheduling this reoccurring meeting in order to quickly go over",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-24 11:00",
+      "summary": "What’s New: Product - Marketing Sync",
+      "description": "Hi team\\, this is a bi-wkly meeting to help us align on the fea",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-24 11:00",
+      "summary": "Backlog Refinement [bi weekly]",
+      "description": "Hi team\\,\\nAs we have started to do Sprint Planning with RnD\\,",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-25 14:30",
+      "summary": "Weekly: Idan / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-25 15:00",
+      "summary": "AI Sync + CTO Tasks refinement",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-25 17:00",
+      "summary": "Weekly: Boris / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-26 05:30",
+      "summary": "נוירולוג לתול\\, קרית אונו",
+      "description": "שלום יפתח\\,\\nנקבעה לך פגישה אצל דר' בר יוסף עומר בתאריך 26/09/2",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-28 08:00",
+      "summary": "Road to Revenue – Payment Blueprint Signoff",
+      "description": "<p>Objective: To reaffirm the plan agreed upon last week with a",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-28 11:30",
+      "summary": "Sola Weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-29 10:45",
+      "summary": "Go To Market",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": true
+    },
+    {
+      "date": "2025-09-29 14:00",
+      "summary": "Product weekly team meeting",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": true
+    },
+    {
+      "date": "2025-09-30 08:00",
+      "summary": "צביקה וסאלי",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-30 12:00",
+      "summary": "Product and Design Bi-weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-30 13:30",
+      "summary": "Product weekly team meeting",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-09-30 15:45",
+      "summary": "Weekly Feature Request",
+      "description": "Scheduling this reoccurring meeting in order to quickly go over",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-02 11:00",
+      "summary": "Product and Design Bi-weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": true
+    },
+    {
+      "date": "2025-10-02 14:30",
+      "summary": "Weekly: Idan / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-02 15:00",
+      "summary": "AI Sync + CTO Tasks refinement",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-02 17:00",
+      "summary": "Weekly: Boris / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-06 11:30",
+      "summary": "תספורת",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-06 14:00",
+      "summary": "Product weekly team meeting",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-06 17:30",
+      "summary": "canvas2 sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-07 15:45",
+      "summary": "Weekly Feature Request",
+      "description": "Scheduling this reoccurring meeting in order to quickly go over",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-08 08:00",
+      "summary": "פיזיו שושה",
+      "description": "",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-08 15:00",
+      "summary": "הגר",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-09 11:00",
+      "summary": "Backlog Refinement [bi weekly]",
+      "description": "Hi team\\,\\nAs we have started to do Sprint Planning with RnD\\,",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-09 14:30",
+      "summary": "Weekly: Idan / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-09 15:00",
+      "summary": "AI Sync + CTO Tasks refinement",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-09 17:00",
+      "summary": "Weekly: Boris / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-12",
+      "summary": "Vacation",
+      "description": "Vacation\\; 2025-10-12 - 2025-10-17",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-12 11:30",
+      "summary": "Sola Weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-12 17:00",
+      "summary": "Sola | Sprint Planning",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-13 14:00",
+      "summary": "Product weekly team meeting",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-13 17:30",
+      "summary": "canvas2 sync",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-14 15:45",
+      "summary": "Weekly Feature Request",
+      "description": "Scheduling this reoccurring meeting in order to quickly go over",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-15 11:00",
+      "summary": "In Memory of October 7 – Lecture by Eyal Eshel",
+      "description": "<p>Hi Everyone\\,</p><p>On Wednesday\\, October 15\\, we will hold",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-15 16:45",
+      "summary": "Yoga 🧘🏼‍♀️",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-16 11:00",
+      "summary": "Product and Design Bi-weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-16 14:30",
+      "summary": "Weekly: Idan / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-16 15:00",
+      "summary": "AI Sync + CTO Tasks refinement",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-4 - Wolverine (6) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-16 17:00",
+      "summary": "Weekly: Boris / Tzvika",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-19 11:00",
+      "summary": "Sola Product Overview for Non-Tech",
+      "description": "<p>Hi everyone\\,</p><p>You are invited to a product training se",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-20 10:45",
+      "summary": "Go To Market",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "HQ-1-10 - Avengers (10) [Conferencing System\\, Webcam]",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-21 07:00",
+      "summary": "Tzvika <> Omri",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-21 07:00",
+      "summary": "Q4 plan- Company presentation",
+      "description": "<p>Hi everyone\\,</p><p>You are invited to our Q4 Work Plan Pres",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-22 05:30",
+      "summary": "Sola Connect (Company Trip)🌴🥂",
+      "description": "<p> Hi All\\,</p><p>Get ready! We’re heading north for an exciti",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-10-29 16:45",
+      "summary": "Yoga 🧘🏼‍♀️",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-11-02 11:30",
+      "summary": "Sola Weekly",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-11-03 12:00",
+      "summary": "פיזיותרפיה שושה",
+      "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~",
+      "location": "Shlomo Ibn Gabirol St 186\\, Tel Aviv-Yafo\\, Israel",
+      "recurring": false
+    },
+    {
+      "date": "2025-11-05 09:00",
+      "summary": "Join me for ״My Sola Story״",
+      "description": "Hi everyone\\,<br>I’m hosting a 30-minute session to share <i>My",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-11-23 13:50",
+      "summary": "תור לתול ד״ר עוז סגל",
+      "description": "שלום יפתח בשור\\,\\nנקבע עבורך תור לדר עוז סגל.\\nתאריך: 23/11/202",
+      "location": "",
+      "recurring": false
+    },
+    {
+      "date": "2025-12-03 14:00",
+      "summary": "Day 1: AUTONOMOUS – the world’s largest summit for AI innovators",
+      "description": "Access the event here https://events.goldcast.io/auth/link/2c95",
+      "location": "https://events.goldcast.io/auth/link/2c959544-ae52-4412-841b-a436e",
+      "recurring": false
+    },
+    {
+      "date": "2025-12-04 14:00",
+      "summary": "Day 2: AUTONOMOUS – the world’s largest summit for AI innovators",
+      "description": "Access the event here https://events.goldcast.io/auth/link/2c95",
+      "location": "https://events.goldcast.io/auth/link/2c959544-ae52-4412-841b-a436e",
+      "recurring": false
+    }
+  ],
+  "recurring_summary": {
+    "Office": 4,
+    "Home": 3,
+    "Pickup": 1,
+    "צביקה בשור וסאלי": 9,
+    "Family time": 1,
+    "Marketplace - Sync": 2,
+    "Business Applications Sync - bi weekly": 1,
+    "Pricing Strategy Discussion": 2,
+    "Pre-launch status meeting": 3,
+    "Daily sync": 3,
+    "Post-launch insights": 2,
+    "Product and Design Bi-weekly": 6,
+    "Business Applications Sync - weekly": 6,
+    "AI First | Daily Sync": 2,
+    "Product bi-weekly team meeting": 5,
+    "Yoga": 2,
+    "AI status sync": 1,
+    "Yoga with Tamar": 9,
+    "Out of office": 1,
+    "Innovation & Design & Product & Sync": 3,
+    "Go To Market": 4,
+    "Weekly Feature Request": 2,
+    "canvas2 sync": 3,
+    "Family time - Hagar": 1,
+    "Familya": 1,
+    "Weekly: Boris / Tzvika": 1,
+    "Weekly: Idan / Tzvika": 1,
+    "What’s New: Product - Marketing Sync": 2,
+    "Sola | Sprint Planning": 1,
+    "AI Sync + CTO Tasks refinement": 1,
+    "Tzvika / Adi - bi-weekly catch up": 1,
+    "Tzvika / Shlomi - Bi weekly coffee and sync": 1,
+    "Aligning on projects - Tzvika / Adi": 1,
+    "Product weekly team meeting": 4,
+    "Backlog Refinement [bi weekly]": 4,
+    "Yoga 🧘🏼‍♀️": 4,
+    "Sola Weekly": 14
+  }
+}
