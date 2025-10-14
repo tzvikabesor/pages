@@ -1,7 +1,10 @@
 # Billion Person Focus Group Resources
 
 ## Course Materials
-[To be populated with gathered courses - see roadmap for task to gather materials]
+- resources/billion-person-focus-group-course/ (Maven course materials, lessons, handoffs)
+  - Week 1-7 lessons
+  - Course handoffs
+  - Maven course notes
 
 ## Reference
-[Links to course materials once they're saved to resources/]
+[To be populated with additional reference materials]
