@@ -187,6 +187,47 @@
             color: #667eea;
         }
 
+        .quick-links {
+            background: #f8f9fa;
+            padding: 15px;
+            margin: 15px;
+            border-radius: 8px;
+            border: 2px solid #667eea;
+        }
+
+        .quick-links h2 {
+            font-size: 1.1rem;
+            color: #667eea;
+            margin-bottom: 12px;
+            border: none;
+        }
+
+        .links-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 8px;
+        }
+
+        .quick-links a {
+            display: block;
+            padding: 10px;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 6px;
+            text-align: center;
+            font-size: 0.9rem;
+            border: 1px solid #e0e0e0;
+            transition: all 0.2s;
+        }
+
+        .quick-links a:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+        }
+
         footer {
             background: #333;
             color: white;
@@ -196,6 +237,9 @@
         }
 
         @media (max-width: 768px) {
+            .links-grid {
+                grid-template-columns: 1fr 1fr;
+            }
             header h1 {
                 font-size: 1.5rem;
             }
@@ -227,7 +271,21 @@
         </header>
 
         <div class="content">
-            <section>
+            <div class="quick-links">
+                <h2>🔗 קישורים מהירים</h2>
+                <div class="links-grid">
+                    <a href="#what">מה זה הוותיקן?</a>
+                    <a href="#history">היסטוריה</a>
+                    <a href="#museums">המוזיאונים</a>
+                    <a href="#sistine">הקפלה הסיסטינית</a>
+                    <a href="#basilica">כנסיית פטרוס</a>
+                    <a href="#missions">משימות לילדים</a>
+                    <a href="#tips">טיפים</a>
+                    <a href="#facts">עובדות כיפיות</a>
+                </div>
+            </div>
+
+            <section id="what">
                 <h2>מה זה בכלל הוותיקן?</h2>
                 <p>הוותיקן הוא <strong>המדינה הכי קטנה בעולם</strong> - היא כל כך קטנה שהיא בתוך רומא!</p>
 
@@ -244,7 +302,7 @@
 
             <hr>
 
-            <section>
+            <section id="history">
                 <h2>קצת היסטוריה (כדי להבין מה אנחנו רואים)</h2>
 
                 <h3>הקשר לאימפריה הרומית שלמדתם עליה!</h3>
@@ -281,7 +339,7 @@
 
             <hr>
 
-            <section>
+            <section id="museums">
                 <h2>🎯 מה נראה בטיול?</h2>
 
                 <h3>1. מוזיאוני הוותיקן 🏛️</h3>
@@ -334,7 +392,7 @@
 
             <hr>
 
-            <section>
+            <section id="sistine">
                 <h2>2. הקפלה הסיסטינית (Sistine Chapel) 🎨</h2>
                 <p>זה <strong>הגולת הכותרת</strong> - הדבר הכי מפורסם בוותיקן!</p>
 
@@ -377,7 +435,7 @@
 
             <hr>
 
-            <section>
+            <section id="basilica">
                 <h2>3. כנסיית פטרוס הקדוש (St. Peter's Basilica) ⛪</h2>
                 <p>זו <strong>אחת הכנסיות הכי גדולות והמרשימות בעולם</strong>!</p>
 
@@ -426,7 +484,7 @@
 
             <hr>
 
-            <section>
+            <section id="missions">
                 <h2>🎯 משימות מיוחדות לילדים</h2>
                 <p>תוכלו להפוך את הביקור למרגש יותר עם המשימות האלה:</p>
 
@@ -454,7 +512,7 @@
 
             <hr>
 
-            <section>
+            <section id="tips">
                 <h2>💡 טיפים חשובים</h2>
 
                 <div class="tips-grid">
@@ -521,7 +579,7 @@
 
             <hr>
 
-            <section>
+            <section id="facts">
                 <h2>🌟 עובדות כיפיות</h2>
 
                 <div class="facts-box">
