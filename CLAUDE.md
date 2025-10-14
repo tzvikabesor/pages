@@ -1,6 +1,6 @@
 # Claude Instructions
 
-**ALWAYS check ROADMAP.md first** before starting any task or answering questions about work status.
+**ALWAYS check next-actions.md first** for current work. See `VISION.md` for strategic direction and `PROJECTS.md` for active projects.
 
 ## Work System Overview
 
@@ -13,9 +13,10 @@ This is a personal work management system designed for:
 
 ### Core Files
 - `ABOUT.md`: Your background, story, current needs and wants - context for all work
-- `ROADMAP.md`: Current priorities, in-progress tasks, and recent completions (CHECK THIS FIRST)
-- `PROJECTS.md`: List of all projects (active, on hold, completed)
-- `VISION.md`: Future directions and north star - synthesizes ideas into coherent possible futures
+- `inbox.md`: Single capture point for everything (tasks, ideas, notes, resources)
+- `next-actions.md`: Context-based next actions (@home, @calls, @computer, @anywhere) - CHECK THIS FOR DAILY WORK
+- `VISION.md`: Strategic direction - pillars, horizons, goals, someday/maybe (quarterly review)
+- `PROJECTS.md`: List of all active projects
 - `CLAUDE.md`: This file - instructions for how to use the system
 
 ### Documentation
@@ -24,46 +25,90 @@ This is a personal work management system designed for:
 - `.claude/commands/`: Custom commands for workflow automation
 
 ### Working Directories
-- `projects/`: Large, ongoing efforts with their own structure and tracking
-- `tasks/`: Detailed task breakdowns for complex work items (can be standalone or part of a project)
-- `ideas/`: Project ideas not yet ready for the roadmap - each gets its own file to develop
+- `projects/`: Time-bound outcomes with clear endpoints (each has roadmap.md, resources.md)
+- `areas/`: Ongoing responsibilities with no end date (health, family, work, home, financial)
+  - Each area has: tasks.md, practices.md, resources.md
+- `resources/`: Centralized vault for reference materials (max 2 levels deep)
+  - Projects/areas point to resources via their resources.md files
+- `zettelkasten/`: Processed knowledge - permanent atomic notes with links
+  - `permanent/`: Evergreen notes with single ideas
+  - `index.md`: Entry points and structure notes
+- `archives/`: Completed projects, inactive areas, old resources
 - `scripts/`: Utility scripts and automation tools
 - `interfaces/`: Dashboards, tools, and generated interfaces built from knowledge
 
 ## Work Organization
 
-### The Spectrum: Ideas → Projects → Tasks
+### The Three Pillars of Daily Work
 
-- **Ideas**: Project concepts not yet ready for active work
-  - Each idea gets its own file in `ideas/` to develop
-  - Ideas are synthesized into coherent themes in `VISION.md`
-  - Represents possible futures and north star directions
-- **Projects**: Large, ongoing, open-ended efforts with evolving scope
-  - Each project gets its own folder in `projects/`
-  - Projects can have their own roadmaps, documentation, and task lists
-  - Ideas "graduate" to projects when ready for active work
-- **Tasks**: Specific work items with clear endpoints
-  - Can be standalone or belong to a project
-  - Complex tasks get detailed breakdowns in `tasks/`
-  - Simple tasks just live in ROADMAP.md
-- **ROADMAP.md**: High-level view showing current priorities across all projects and standalone tasks
+Your daily routine centers on:
+1. **inbox.md** - Capture everything without thinking
+2. **next-actions.md** - Do from context lists (@home, @calls, @computer, @anywhere)
+3. **Calendar** - Time-blocked commitments
 
-## Workflow
+### GTD Workflow (Capture → Clarify → Organize → Reflect → Engage)
 
-1. **Always** check ROADMAP.md to understand current priorities
-2. Reference knowledge.md for relevant past learnings
-3. For new projects: Create folder in `projects/` with its own structure
-4. For complex tasks: Create detailed breakdown in `tasks/`
-5. Update ROADMAP.md as work progresses (use [ ], [-], [x] convention)
-6. Capture new learnings in knowledge.md using `/work:capture`
-7. Create tools and scripts as needed in `scripts/` and `interfaces/`
+**Capture**: Everything goes to `inbox.md`
+
+**Clarify**: Daily processing - what is this?
+- Task? → next-actions.md or project/area tasks.md
+- Resource? → resources/ with pointer from project/area
+- Insight? → zettelkasten/permanent/
+- Habit? → areas/*/practices.md
+- Someday? → VISION.md someday/maybe
+- Delete? → Gone
+
+**Organize**: Put it in the right place
+
+**Reflect**: Weekly review (see Review Cycles below)
+
+**Engage**: Pick from next-actions.md based on context and energy
+
+### Projects vs Areas
+
+- **Projects** (projects/): Time-bound outcomes with clear endpoints
+  - Each has: roadmap.md (task inventory), resources.md (pointers to resources/)
+  - Examples: Work System, Home Renovation, Billion Person Focus Group MVP
+
+- **Areas** (areas/): Ongoing responsibilities, no end date
+  - Each has: tasks.md (one-time actions), practices.md (habits/routines), resources.md
+  - Examples: Health, Family, Work, Home, Financial
+
+## Review Cycles
+
+**Daily** (5-10 min):
+- Process inbox.md (at least partially)
+- Update next-actions.md (check off done items)
+- Check calendar for tomorrow
+- Quick practices check-in (areas/*/practices.md)
+
+**Weekly** (60 min, Sunday evening):
+1. Empty inbox.md completely
+2. Review each projects/*/roadmap.md - what's done? What's next?
+3. Review each areas/*/tasks.md - what's done? What's next?
+4. Update next-actions.md with pulled next actions by context
+5. Review calendar - time-block next week
+6. Optional: Process one resource into zettelkasten
+
+**Monthly** (90 min, last Sunday):
+- Full weekly review first
+- Deep review of each area (are practices working?)
+- Review PROJECTS.md (complete/start/pause anything?)
+- Quick VISION.md check (aligned with pillars?)
+
+**Quarterly** (2-3 hours, Jan/Apr/Jul/Oct):
+- Full monthly review first
+- Deep VISION.md review (pillars, purpose, vision, goals)
+- Review someday/maybe - anything ready for projects?
+- Zettelkasten review - what insights emerged?
+- System adjustments - what's working? What's not?
 
 ## Rules
 
-1. **When user says they'll do something**: Add it as a task to ROADMAP.md even if not explicitly asked
+1. **When user says they'll do something**: Add it as a task to next-actions.md (with context) or appropriate project/area tasks.md
 2. **When user says "as a rule"**: Document that rule in this section of CLAUDE.md
-3. **When user asks about a task**: Check both the main ROADMAP.md AND all active project roadmaps in `projects/*/roadmap.md` - tasks may be tracked at either level
-4. **When adding tasks that belong to in-progress projects**: Add cross-references in the main ROADMAP.md pointing to the project's detailed roadmap (e.g., "[-] Project Name → See `projects/project-name/roadmap.md` for detailed tasks")
+3. **When user asks about a task**: Check next-actions.md first, then project roadmaps (projects/*/roadmap.md) and area tasks (areas/*/tasks.md)
+4. **When adding tasks**: Determine if it's a next action (goes to next-actions.md), project task (projects/*/roadmap.md), or area task (areas/*/tasks.md)
 
 ## Communication Principles: Data Reliability and Uncertainty
 
