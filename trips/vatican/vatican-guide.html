@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>הטיול שלנו לוותיקן 🇻🇦</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: #f8f9fa;
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            min-height: 100vh;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #667eea;
+            font-size: 1.8rem;
+            margin: 30px 0 15px 0;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        h3 {
+            color: #764ba2;
+            font-size: 1.4rem;
+            margin: 25px 0 12px 0;
+        }
+
+        h4 {
+            color: #555;
+            font-size: 1.2rem;
+            margin: 20px 0 10px 0;
+        }
+
+        p {
+            margin: 15px 0;
+            font-size: 1.05rem;
+        }
+
+        ul, ol {
+            margin: 15px 0 15px 30px;
+        }
+
+        li {
+            margin: 10px 0;
+            font-size: 1.05rem;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .img-caption {
+            text-align: center;
+            font-style: italic;
+            color: #666;
+            font-size: 0.95rem;
+            margin-top: -10px;
+            margin-bottom: 20px;
+        }
+
+        .highlight-box {
+            background: #fff3cd;
+            border-right: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .info-box {
+            background: #d1ecf1;
+            border-right: 4px solid #17a2b8;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .success-box {
+            background: #d4edda;
+            border-right: 4px solid #28a745;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .checklist {
+            background: #f8f9fa;
+            border: 2px solid #667eea;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+
+        .checklist h3 {
+            margin-top: 0;
+            color: #667eea;
+        }
+
+        .checklist ul {
+            list-style: none;
+            margin-right: 0;
+        }
+
+        .checklist li:before {
+            content: "☐ ";
+            color: #667eea;
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-left: 10px;
+        }
+
+        .facts-box {
+            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+            border: 2px solid #667eea;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+
+        strong {
+            color: #667eea;
+        }
+
+        hr {
+            border: none;
+            border-top: 2px solid #e0e0e0;
+            margin: 30px 0;
+        }
+
+        .tips-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .tip-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border-right: 3px solid #667eea;
+        }
+
+        .tip-card h4 {
+            margin-top: 0;
+            color: #667eea;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.5rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            h3 {
+                font-size: 1.2rem;
+            }
+
+            .content {
+                padding: 15px;
+            }
+
+            .tips-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🇻🇦 הטיול שלנו לוותיקן</h1>
+            <p>יום שלישי, 14 באוקטובר 2025</p>
+            <p>עיר הוותיקן - המדינה הכי קטנה בעולם!</p>
+        </header>
+
+        <div class="content">
+            <section>
+                <h2>מה זה בכלל הוותיקן?</h2>
+                <p>הוותיקן הוא <strong>המדינה הכי קטנה בעולם</strong> - היא כל כך קטנה שהיא בתוך רומא!</p>
+
+                <p>אבל גם אם היא קטנה, היא מאוד מאוד מיוחדת:</p>
+                <ul>
+                    <li>🏛️ כאן גרים <strong>האפיפיור</strong> - ראש הכנסייה הקתולית</li>
+                    <li>🎨 יש כאן <strong>אוסף אמנות ענק</strong> - אחד הכי מדהימים בעולם</li>
+                    <li>🖌️ כאן תראו יצירות מופת של <strong>מיכלאנג'לו</strong>, <strong>רפאל</strong> ואמנים נהדרים אחרים</li>
+                    <li>⛪ יש כאן את <strong>כנסיית פטרוס הקדוש</strong> - אחת הכנסיות הכי גדולות והיפות בעולם</li>
+                </ul>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vatican_City_at_Large.jpg/1280px-Vatican_City_at_Large.jpg" alt="Vatican from above">
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>קצת היסטוריה (כדי להבין מה אנחנו רואים)</h2>
+
+                <h3>הקשר לאימפריה הרומית שלמדתם עליה!</h3>
+                <p>זוכרים את האימפריה הרומית? אז הנה קשר מעניין:</p>
+
+                <p><strong>לפני כמעט 2,000 שנה</strong>, ברומא העתיקה (כן, אותה רומא!), חי איש בשם <strong>פטרוס</strong>. הוא היה אחד מתלמידיו הקרובים ביותר של ישו.</p>
+
+                <p>פטרוס הגיע לרומא והפך להיות <strong>האפיפיור הראשון</strong> - המנהיג הראשון של הנוצרים. האגדה אומרת שהוא נקבר בדיוק במקום שבו נמצאת היום כנסיית פטרוס הקדוש!</p>
+
+                <p>במשך מאות שנים, הכנסייה הפכה למאוד חשובה ועשירה.</p>
+
+                <h3>תור הרנסנס - כשאמנים יצרו פלאים</h3>
+                <p><strong>לפני כ-500 שנה</strong> (המאה ה-16), הייתה תקופה מיוחדת בשם <strong>הרנסנס</strong> - "תקופת הלידה מחדש".</p>
+
+                <p>באותה תקופה:</p>
+                <ul>
+                    <li>🎨 אמנים גדולים יצרו את יצירות המופת הכי מפורסמות</li>
+                    <li>📚 אנשים התחילו ללמוד מדעים, אמנות ופילוסופיה</li>
+                    <li>💰 האפיפיורים היו עשירים מאוד והזמינו אמנים לקשט את הוותיקן</li>
+                </ul>
+
+                <div class="info-box">
+                    <strong>האמנים הכי מפורסמים מהתקופה ההיא:</strong>
+                    <ul>
+                        <li><strong>מיכלאנג'לו</strong> - פסל, צייר ואדריכל גאון (ציר את התקרה המפורסמת של הקפלה הסיסטינית!)</li>
+                        <li><strong>רפאל</strong> - צייר מדהים (צייר ציורי קיר ענקיים ויפהפיים)</li>
+                        <li><strong>ברניני</strong> - פסל ואדריכל מאוחר יותר (יצר דברים מדהימים בכנסייה)</li>
+                    </ul>
+                </div>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1280px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg" alt="The Creation of Adam">
+                <p class="img-caption">"בריאת אדם" מאת מיכלאנג'לו - התמונה הכי מפורסמת מתקרת הקפלה הסיסטינית</p>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>🎯 מה נראה בטיול?</h2>
+
+                <h3>1. מוזיאוני הוותיקן 🏛️</h3>
+                <p>זה לא סתם מוזיאון - זה <strong>מבוך ענק של חדרי אמנות</strong>!</p>
+
+                <h4>🗺️ גלריית המפות (Galleria delle Carte Geografiche)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gallery_of_Maps%2C_Vatican_Museums_%2833540218168%29.jpg/1280px-Gallery_of_Maps%2C_Vatican_Museums_%2833540218168%29.jpg" alt="Gallery of Maps">
+                <ul>
+                    <li>פרוזדור ארוך מלא במפות ענקיות על הקירות והתקרה!</li>
+                    <li>המפות מציגות את איטליה איך שנראתה לפני 450 שנה</li>
+                    <li>התקרה מלאה בציורים מוזהבים ומדהימים</li>
+                    <li><strong>למה זה מגניב</strong>: נסו למצוא את רומא במפות! איך המפות שלהם שונות מגוגל מפס של היום?</li>
+                </ul>
+
+                <h4>🏺 הפסלים היוונים והרומיים</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg/800px-Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg" alt="Laocoön">
+                <p class="img-caption">פסל לאוקון - פסל יווני עתיק מפורסם</p>
+                <ul>
+                    <li>פסלים של אלים, גיבורים ואימפרטורים מהאימפריה הרומית!</li>
+                    <li>חלקם בני יותר מ-2,000 שנה</li>
+                    <li><strong>למה זה מגניב</strong>: הרומאים האלה היו אנשים אמיתיים - מלכים, לוחמים, אמנים</li>
+                </ul>
+
+                <h4>🐍 המומיה המצרית</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vatican_Museum%2C_mummy.jpg/800px-Vatican_Museum%2C_mummy.jpg" alt="Egyptian Mummy">
+                <ul>
+                    <li>כן, יש במוזיאון הוותיקן מומיה אמיתית ממצרים העתיקה!</li>
+                    <li>תלמדו איך המצרים העתיקים כתבו בהירוגליפים (כמו אמוג'י של פעם!)</li>
+                    <li><strong>למה זה מגניב</strong>: מומיה אמיתית בת אלפי שנים!</li>
+                </ul>
+
+                <h4>🎨 חדרי רפאל (Raphael Rooms)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" alt="School of Athens">
+                <p class="img-caption">"בית המדרש של אתונה" - ציור קיר ענק מאת רפאל</p>
+                <ul>
+                    <li>חדרים שלמים שרפאל צייר על הקירות!</li>
+                    <li>הציור המפורסם ביותר: "בית המדרש של אתונה"</li>
+                    <li>מציג חכמים יווניים עתיקים כמו אפלטון ואריסטו</li>
+                    <li><strong>למה זה מגניב</strong>: זה כמו תמונה ענקית שמכסה קיר שלם - רפאל צייר את זה ישירות על הקיר!</li>
+                </ul>
+
+                <h4>🧵 חדר השטיחים (Gallery of Tapestries)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tapestry_Gallery_Vatican_Museums.jpg/1280px-Tapestry_Gallery_Vatican_Museums.jpg" alt="Tapestries">
+                <ul>
+                    <li>שטיחים ענקיים שארגו ביד לפני 500 שנה</li>
+                    <li>כל שטיח מספר סיפור מהתנ"ך</li>
+                    <li><strong>למה זה מגניב</strong>: תראו איך הדמויות "מסתכלות" עליכם מכל זווית - זו אשליה אופטית!</li>
+                </ul>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>2. הקפלה הסיסטינית (Sistine Chapel) 🎨</h2>
+                <p>זה <strong>הגולת הכותרת</strong> - הדבר הכי מפורסם בוותיקן!</p>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CAPPELLA_SISTINA_Ceiling.jpg/1280px-CAPPELLA_SISTINA_Ceiling.jpg" alt="Sistine Chapel Ceiling">
+                <p class="img-caption">התקרה המדהימה של הקפלה הסיסטינית</p>
+
+                <h3>מה כל כך מיוחד?</h3>
+
+                <div class="highlight-box">
+                    <strong>התקרה - מיכלאנג'לו צייר את כל התקרה!</strong>
+                    <ul>
+                        <li>🕐 לקח לו <strong>4 שנים</strong> (1508-1512)</li>
+                        <li>🖌️ הוא שכב על הגב על פיגומים גבוהים וצייר מעליו</li>
+                        <li>🎨 כיסה <strong>500 מטר רבוע</strong> בציורים!</li>
+                        <li>💪 זה גרם לו לכאבי גב נוראיים, אבל הוא לא ויתר</li>
+                    </ul>
+                </div>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg/1280px-Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg" alt="Creation of Adam">
+                <p class="img-caption">פרט מ"בריאת אדם" - הסצנה המפורסמת ביותר</p>
+
+                <h4>הקיר של יום הדין (The Last Judgment)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/800px-Last_Judgement_%28Michelangelo%29.jpg" alt="Last Judgment">
+                <ul>
+                    <li>מיכלאנג'לו חזר 25 שנים מאוחר יותר (1536-1541) וצייר את הקיר מאחורי המזבח</li>
+                    <li>ציור ענק של יום הדין האחרון</li>
+                    <li><strong>400 דמויות</strong> בציור אחד!</li>
+                    <li><strong>למה זה מגניב</strong>: זה כמו חיפוש אוצר ענק - יש כל כך הרבה דמויות וסיפורים!</li>
+                </ul>
+
+                <div class="info-box">
+                    <h4>🤫 כללים חשובים בקפלה:</h4>
+                    <ul>
+                        <li>לא מדברים (צריך להיות שקט מאוד)</li>
+                        <li>לא מצלמים (ללא פלאש, אבל תוכלו להסתכל כמה שרוצים!)</li>
+                        <li>נסו לבוא עם צוואר מוכן להסתכל למעלה 😊</li>
+                    </ul>
+                </div>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>3. כנסיית פטרוס הקדוש (St. Peter's Basilica) ⛪</h2>
+                <p>זו <strong>אחת הכנסיות הכי גדולות והמרשימות בעולם</strong>!</p>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg" alt="St. Peter's Basilica Interior">
+                <p class="img-caption">הפנים של כנסיית פטרוס - ענקית ומדהימה</p>
+
+                <div class="highlight-box">
+                    <h4>📏 עובדות מרשימות:</h4>
+                    <ul>
+                        <li><strong>אורך</strong>: 218 מטר (יותר משני מגרשי כדורגל!)</li>
+                        <li><strong>גובה הכיפה</strong>: 136 מטר (בניין של 45 קומות!)</li>
+                        <li><strong>נבנתה</strong>: לקח 120 שנה לבנות (1506-1626)</li>
+                        <li><strong>למה פה?</strong>: אומרים שפטרוס הקדוש (התלמיד של ישו) קבור מתחת לכנסייה</li>
+                    </ul>
+                </div>
+
+                <h4>🕊️ הפייטה של מיכלאנג'לו (La Pietà)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Michelangelo%27s_Pieta_5450_cropncleaned_edit.jpg/800px-Michelangelo%27s_Pieta_5450_cropncleaned_edit.jpg" alt="La Pietà">
+                <ul>
+                    <li>פסל שיש מרהיב של מרים אוחזת את ישו</li>
+                    <li>מיכלאנג'לו פיסל את זה כשהיה רק <strong>24 שנים</strong>!</li>
+                    <li><strong>למה זה מיוחד</strong>: הפסל נראה כל כך רך ואמיתי, אבל הוא עשוי מאבן קשה!</li>
+                    <li>מוגן מאחורי זכוכית (אחרי שמישהו פגע בו לפני 50 שנה)</li>
+                </ul>
+
+                <h4>✨ הבלדאקין של ברניני (Bernini's Baldachin)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/StPeter_Baldachino.jpg/800px-StPeter_Baldachino.jpg" alt="Baldachin">
+                <ul>
+                    <li>חופה ברונזה ענקית מעל המזבח המרכזי</li>
+                    <li><strong>גובה</strong>: 29 מטר (בניין של 9 קומות!)</li>
+                    <li>עשוי ממתכת שנלקחה מהפנתיאון הרומי העתיק</li>
+                    <li>עמודים מפותלים מעוטרים בזהב</li>
+                    <li><strong>למה זה מגניב</strong>: זו אמנות ברונזה ענקית שנראית כמו בד!</li>
+                </ul>
+
+                <h4>🌟 הכיפה (The Dome)</h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saint_Peter%27s_Basilica_dome_%282016%29.jpg/800px-Saint_Peter%27s_Basilica_dome_%282016%29.jpg" alt="Dome Interior">
+                <p class="img-caption">מבט למעלה לכיפה מבפנים</p>
+                <ul>
+                    <li>מיכלאנג'לו תכנן את הכיפה (אבל לא חי לראות אותה גמורה)</li>
+                    <li>הקוטר: 42 מטר</li>
+                    <li>משקלה: 14,000 טון!</li>
+                    <li><strong>טיפ</strong>: עמדו מתחת למרכז הכיפה והסתכלו ישר למעלה - מסחרר!</li>
+                </ul>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>🎯 משימות מיוחדות לילדים</h2>
+                <p>תוכלו להפוך את הביקור למרגש יותר עם המשימות האלה:</p>
+
+                <div class="checklist">
+                    <h3>🔍 מצא את:</h3>
+                    <ul>
+                        <li>את "בריאת אדם" בתקרת הקפלה הסיסטינית</li>
+                        <li>המומיה המצרית במוזיאון</li>
+                        <li>את הפסל "לאוקון" (איש עם נחשים)</li>
+                        <li>את הבלדאקין הזהוב הענק בכנסייה</li>
+                        <li>פסיפס שנראה כמו ציור</li>
+                        <li>את הפייטה של מיכלאנג'לו (מאחורי הזכוכית)</li>
+                    </ul>
+                </div>
+
+                <div class="checklist">
+                    <h3>💭 שאלות לחשוב עליהן:</h3>
+                    <ul>
+                        <li>איך לדעתכם מיכלאנג'לו הצליח לצייר על התקרה במשך 4 שנים?</li>
+                        <li>מה ההבדל בין פסל ופסיפס?</li>
+                        <li>איך בנו כיפה כל כך גדולה לפני 400 שנה בלי טכנולוגיה מודרנית?</li>
+                    </ul>
+                </div>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>💡 טיפים חשובים</h2>
+
+                <div class="tips-grid">
+                    <div class="tip-card">
+                        <h4>👟 לבוש</h4>
+                        <ul>
+                            <li>נעליים נוחות! (הולכים הרבה)</li>
+                            <li>כתפיים וברכיים מכוסות (כללי הכנסייה)</li>
+                            <li>שכבות - בפנים מזגן חזק</li>
+                        </ul>
+                    </div>
+
+                    <div class="tip-card">
+                        <h4>🎒 מה לקחת</h4>
+                        <ul>
+                            <li>בקבוק מים (יש מזרקות לתדלוק)</li>
+                            <li>חטיפים קטנים</li>
+                            <li>מטען לטלפון</li>
+                            <li>סבלנות - יש הרבה אנשים!</li>
+                        </ul>
+                    </div>
+
+                    <div class="tip-card">
+                        <h4>⏰ זמנים</h4>
+                        <ul>
+                            <li>מגיעים מוקדם (פחות עומס)</li>
+                            <li>הביקור יכול לקחת 3-4 שעות</li>
+                            <li>הקפלה הסיסטינית נסגרת בשעה 16:00</li>
+                        </ul>
+                    </div>
+
+                    <div class="tip-card">
+                        <h4>🤫 כללי התנהגות</h4>
+                        <ul>
+                            <li>בקפלה הסיסטינית - שקט מוחלט</li>
+                            <li>לא נוגעים בפסלים ויצירות אמנות</li>
+                            <li>הולכים בשביל, לא דוחפים</li>
+                            <li>שומרים על ניקיון</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>⭐ למה הטיול הזה מיוחד?</h2>
+
+                <div class="success-box">
+                    <p><strong>אתם עומדים לראות:</strong></p>
+                    <ul>
+                        <li>🎨 יצירות מופת של מיכלאנג'לו, רפאל וברניני</li>
+                        <li>🏛️ אמנות בת 500-2,000 שנה</li>
+                        <li>⛪ אחת הכנסיות המרשימות ביותר בעולם</li>
+                        <li>🗺️ מקום שמשפיע על מיליוני אנשים בעולם</li>
+                        <li>🎭 חיבור בין האימפריה הרומית שלמדתם עליה לתקופת הרנסנס</li>
+                    </ul>
+
+                    <p style="margin-top: 20px; font-size: 1.2rem; text-align: center;">
+                        <strong>זה לא סתם מוזיאון - זה מסע אמיתי לתוך ההיסטוריה! ✨</strong>
+                    </p>
+                </div>
+            </section>
+
+            <hr>
+
+            <section>
+                <h2>🌟 עובדות כיפיות</h2>
+
+                <div class="facts-box">
+                    <ol>
+                        <li><strong>המדינה הכי קטנה</strong>: הוותיקן קטן מפארק הירקון!</li>
+                        <li><strong>אוכלוסייה</strong>: רק כ-800 אנשים גרים בוותיקן</li>
+                        <li><strong>שפה</strong>: הלטינית היא שפה רשמית (כן, אותה שפה רומית עתיקה!)</li>
+                        <li><strong>כספומטים</strong>: יש כספומט שהתפריט בלטינית!</li>
+                        <li><strong>דואר</strong>: לוותיקן יש חותמות משלו - הן נחשבות הכי יעילות באירופה</li>
+                        <li><strong>משמר שוויצרי</strong>: השומרים לובשים מדים צבעוניים שעוצבו (אולי) על ידי מיכלאנג'לו!</li>
+                    </ol>
+
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Swiss_Guards%2C_Vatican_City.jpg/800px-Swiss_Guards%2C_Vatican_City.jpg" alt="Swiss Guard">
+                    <p class="img-caption">המשמר השוויצרי במדים המיוחדים שלהם</p>
+                </div>
+            </section>
+
+            <hr>
+
+            <section style="text-align: center; padding: 30px 0;">
+                <h2>🚀 בואו נהנה!</h2>
+
+                <p style="font-size: 1.2rem; line-height: 2;">
+                    זה הולך להיות יום מדהים מלא באמנות, היסטוריה ודברים יפים!
+                </p>
+
+                <p style="font-size: 1.1rem; margin: 20px 0;">
+                    תזכרו - אתם לא סתם מסתכלים על תמונות ופסלים. אתם רואים משהו שאמנים עבדו עליו <strong>כל חייהם</strong>, משהו ששרד <strong>מאות שנים</strong>, ומשהו ש<strong>מיליוני אנשים באים לראות</strong>.
+                </p>
+
+                <p style="font-size: 1.3rem; color: #667eea; font-weight: bold; margin-top: 30px;">
+                    תהיו סקרנים, תשאלו שאלות, ותיהנו! 🎨✨
+                </p>
+            </section>
+        </div>
+
+        <footer>
+            <p>הוכן במיוחד עבורכם עם ❤️</p>
+            <p>יום שלישי, 14 באוקטובר 2025</p>
+        </footer>
+    </div>
+</body>
+</html>
