@@ -24,7 +24,14 @@ This roadmap tracks the specific tasks and milestones for building the work syst
 ### Foundation (In Progress)
 - [x] Create project structure (2024-10-10)
 - [x] Document project overview and goals (2024-10-10)
+- [x] Research productivity systems (PPV, PARA, GTD, Zettelkasten) (2025-10-13)
+- [x] Write unified system synthesis (2025-10-15)
+- [x] Migrate to unified system structure (2025-10-15)
+- [ ] Fill in VISION.md gaps (purpose, vision, goals)
+- [ ] Populate VISION.md someday/maybe sections for each pillar
+- [ ] Populate area practices.md files (family, work, home practices)
 - [ ] Create working notes file
+- [ ] Run first weekly review with new system
 - [ ] Set up development environment if needed (for custom tools/scripts)
 
 ---

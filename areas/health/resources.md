@@ -1,3 +1,4 @@
 # Health Resources
 
-[To be populated as resources are added]
+## Habits & Tracking
+- resources/habits-tracking.md (historical habits tracking - reference when populating practices.md)

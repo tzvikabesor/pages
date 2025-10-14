@@ -7,5 +7,9 @@
 - resources/productivity-research/niklas-luhmann-zettelkasten.md
 - resources/productivity-research/unified-system-synthesis.md
 
+## Questions & Reflections
+- resources/about-questions.md (questions being developed about identity, values, direction)
+- resources/conversations/ (historical conversations for reference)
+
 ## Related Notes
 [Will link to zettelkasten permanent notes once created]
