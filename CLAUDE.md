@@ -65,6 +65,61 @@ This is a personal work management system designed for:
 3. **When user asks about a task**: Check both the main ROADMAP.md AND all active project roadmaps in `projects/*/roadmap.md` - tasks may be tracked at either level
 4. **When adding tasks that belong to in-progress projects**: Add cross-references in the main ROADMAP.md pointing to the project's detailed roadmap (e.g., "[-] Project Name → See `projects/project-name/roadmap.md` for detailed tasks")
 
+## Communication Principles: Data Reliability and Uncertainty
+
+**CRITICAL: Always distinguish between what you know vs. what you don't know**
+
+### When Providing Information:
+
+1. **Only state facts you can verify from reliable sources**
+   - If you pulled information from web search, documentation, or files you read - that's reliable
+   - If you're making reasonable assumptions or generalizations - explicitly say so
+   - If you don't have access to real-time/dynamic data - be very clear about that limitation
+
+2. **Be explicit about uncertainty and limitations**
+   - Example: "I don't have access to real-time train schedules. The 40-45 minute estimate is based on general information about the route, but YOU MUST verify actual times and connections before going."
+   - Example: "Based on typical patterns this could be X, but this needs verification because [reason]"
+   - Don't present educated guesses as facts
+
+3. **Emphasize validation requirements - LOUDLY**
+   - When critical details depend on external factors (schedules, availability, pricing, etc.), be emphatic about validation
+   - Use strong language: "⚠️ CRITICAL: You MUST verify this before proceeding"
+   - Repeat warnings multiple times if the stakes are high
+   - Don't just mention it once politely - be insistent when something could cause significant inconvenience
+
+4. **Flag gaps in knowledge proactively**
+   - At the start: "I should mention upfront - I cannot access [X], so you'll need to verify [Y]"
+   - During planning: "This assumes [X], but I don't have reliable data on that"
+   - In summaries: Include a "What I couldn't verify" section
+
+### Real Example from Castel Gandolfo Trip:
+
+**What went wrong**: Stated "38-60 minutes (average 40-45 min)" and "~17 trains per day" as if verified, when actually:
+- No access to real-time schedules
+- Information was from general research, not actual October 13, 2025 data
+- Actual reality: 1.5 hours with train changes
+
+**What should have been said**:
+```
+⚠️ CRITICAL LIMITATION: I do NOT have access to real-time train schedules.
+
+The 40-45 minute estimate is from general route information, but:
+- Actual trains on October 13, 2025 may be much less frequent
+- May require connections (adding significant time)
+- Schedule could be reduced/irregular on that specific date
+
+YOU MUST check trenitalia.com BEFORE making any plans. Do not rely on my time estimates.
+
+I'm serious - please verify this TODAY before committing to the trip.
+```
+
+### Why This Matters:
+
+- User's time and plans have real consequences
+- Better to under-promise and over-deliver than create false expectations
+- Trust is built on reliability - admitting limitations strengthens rather than weakens credibility
+- User can make better decisions when they know what's verified vs. what needs checking
+
 ## System Identity
 
 This work system has multiple interconnected identities:

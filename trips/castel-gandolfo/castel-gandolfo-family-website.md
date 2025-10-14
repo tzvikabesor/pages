@@ -10,8 +10,10 @@
 
 זו **בית הקיץ של האפיפיור** - הארמון שבו האפיפיורים נחו במשך מאות שנים.
 
-![מבט אווירי על קסטל גנדולפו והאגם](https://upload.wikimedia.org/wikipedia/commons/6/65/Castel_Gandolfo_BW_3.JPG)
-
+![IMAGE: Castel Gandolfo aerial view]
+<!-- URI: https://www.example.com/castel-gandolfo-aerial.jpg -->
+<!-- Alt text: מבט אווירי על קסטל גנדולפו והאגם -->
+tzr: [2 more images here]
 ---
 
 ## 🌅 למה זה כדאי?
@@ -26,7 +28,9 @@
 
 😌 **הרפתקה רגועה** - לא עמוס, לא מתיש, קצב נינוח ונעים
 
-![הגנים המלכותיים של ברביריני](https://upload.wikimedia.org/wikipedia/commons/7/73/Pontifical_Palace_%28Castel_Gandolfo%29.jpg)
+![IMAGE: Papal Palace gardens]
+<!-- URI: https://www.example.com/barberini-gardens.jpg -->
+<!-- Alt text: הגנים המלכותיים של ברביריני -->
 
 ---
 
@@ -42,7 +46,9 @@
 
 🚕 **במונית** עולים מהתחנה לעיירה (2 דקות נסיעה) - כי העיירה על ראש הגבעה ואנחנו לא רוצים לטפס!
 
-![רכבת דרך האזור הכפרי של איטליה](https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800)
+![IMAGE: Train through Italian countryside]
+<!-- URI: https://www.example.com/train-countryside.jpg -->
+<!-- Alt text: רכבת דרך האזור הכפרי של איטליה -->
 
 ---
 
@@ -54,7 +60,7 @@
 
 🚂 **רכבת** בחזרה לרומא
 
-🚶 **3 דקות הליכה** חזרה למקום האירוח
+🚶 **3 דקות הליכה** חזרה לדירה האירוח
 
 **פשוט וקל!**
 
@@ -66,7 +72,9 @@
 
 נתחיל בכיכר המרכזית היפה - **פיאצה דלה ליברטה** (Piazza della Libertà)
 
-![הכיכר המרכזית של קסטל גנדולפו](https://upload.wikimedia.org/wikipedia/commons/2/26/Piazza_della_Libert%C3%A0_di_Castel_Gandolfo.jpg)
+![IMAGE: Main square Castel Gandolfo]
+<!-- URI: https://www.example.com/piazza-liberta.jpg -->
+<!-- Alt text: הכיכר המרכזית של קסטל גנדולפו -->
 
 ---
 
@@ -78,7 +86,9 @@
 
 ביקור קצר (15-20 דקות), חינם, פשוט ליהנות מהיופי.
 
-![כנסיית סן טומאסו דה וילנובה](https://upload.wikimedia.org/wikipedia/commons/0/0c/Collegiata_di_San_Tommaso_%28Castel_Gandolfo%29443.jpg)
+![IMAGE: San Tommaso church exterior]
+<!-- URI: https://www.example.com/san-tommaso-church.jpg -->
+<!-- Alt text: כנסיית סן טומאסו דה וילנובה -->
 
 ---
 

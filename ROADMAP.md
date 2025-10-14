@@ -21,6 +21,9 @@ Update task status as you work. Move completed items to "Recently Completed" wit
 [ ] [Home Renovation] Call designer to inform we're resuming
 [ ] Time-block next week in Google Calendar
 [ ] [Home Renovation] Call Gil Rosenbaum (construction engineer) on Sunday 2025-10-19 after returning from Rome
+[ ] Set appointment with dentist
+[ ] Set appointment with dental hygienist
+[ ] Work on daily meditation habit using Waking Up app
 
 ## In Progress
 
@@ -36,6 +39,11 @@ Update task status as you work. Move completed items to "Recently Completed" wit
 
 ## Recently Completed
 
+[x] Research Zettelkasten method and create inspiration document (2025-10-13)
+[x] Create Vatican trip guide for kids in Hebrew with images (2025-10-13)
+[x] Research GTD (Getting Things Done) and create inspiration document (2025-10-13)
+[x] Research PARA Method and create inspiration document (2025-10-13)
+[x] Research August Bradley's PPV methodology and create inspiration document (2025-10-13)
 [x] Initialize work management system (2025-10-09)
 [x] Add projects structure and PROJECTS.md (2025-10-09)
 

@@ -8,7 +8,7 @@ These are open questions that would help me provide better assistance in achievi
 
 ### Current Role & Dynamics
 
-- What does "success" in your current role at Solla look like in 6 months? In 1 year?
+- What does "success" in your current role at Sola look like in 6 months? In 1 year?
 - How do you measure whether you're building the senior IC path you want vs. getting pulled into management?
 - What's your ideal ratio of strategic/visionary work to execution/delivery work?
 - When you feel the urge to push hard on a strategic idea, what's your process for deciding whether to advocate or let it go?
