@@ -4,7 +4,7 @@ All captures go here. Process daily.
 
 ## To Process
 
-[Empty - ideas/ folder only contained template file]
+[Empty - Hungary trip processed to projects/hungary-trip-2025/] 
 
 ## Processing Guidelines
 

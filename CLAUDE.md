@@ -109,6 +109,7 @@ Your daily routine centers on:
 2. **When user says "as a rule"**: Document that rule in this section of CLAUDE.md
 3. **When user asks about a task**: Check next-actions.md first, then project roadmaps (projects/*/roadmap.md) and area tasks (areas/*/tasks.md)
 4. **When adding tasks**: Determine if it's a next action (goes to next-actions.md), project task (projects/*/roadmap.md), or area task (areas/*/tasks.md)
+5. **When potential project emerges with go/no-go blocker**: Create project folder (projects/[name]/), put blocker as waiting-for item in roadmap.md, put all context in notes.md, add to next-actions.md Waiting For section with "since" date and link to project. If go → activate tasks; if no-go → archive to archives/projects/[name]-cancelled/
 
 ## Communication Principles: Data Reliability and Uncertainty
 

@@ -23,12 +23,14 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 [ ] Work on daily meditation habit using Waking Up app (health)
 
 ## Waiting For
-[ ] Social Security 2024 payment summary (arriving via mail) → Then send to Haim Carmon for tax returns
+[ ] Moran to confirm Hungary trip dates (Nov 30-Dec 4) - chemo cycle + parents availability (since 2025-10-15) → See projects/hungary-trip-2025/
+[ ] Social Security 2024 payment summary (arriving via mail) (since 2025-10-09) → Then send to Haim Carmon for tax returns
 
 ## Active Projects (Review Weekly)
 [-] Work System → See projects/work-system/roadmap.md
 [-] Home Renovation → See projects/home-renovation/roadmap.md
 [-] Billion Person Focus Group → See projects/billion-person-focus-group/roadmap.md
+[-] Hungary Trip 2025 → See projects/hungary-trip-2025/roadmap.md (waiting for go/no-go)
 
 ---
 
