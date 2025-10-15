@@ -12,6 +12,10 @@
 - resources/about-questions-answers.md (completed answers to coaching questionnaire)
 - resources/conversations/ (historical conversations for reference)
 
+## Documentation
+- resources/system-brief-for-sally.md (overview of the work system for sharing with coach)
+- resources/system-brief-for-sally.html (web version of the brief)
+
 ## Scripts & Tools
 - resources/scripts/analyze_jira.py (Jira data analysis)
 - resources/scripts/parse_calendar.py (calendar parsing utility)
