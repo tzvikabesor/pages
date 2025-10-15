@@ -12,5 +12,10 @@
 - resources/about-questions-answers.md (completed answers to coaching questionnaire)
 - resources/conversations/ (historical conversations for reference)
 
+## Scripts & Tools
+- resources/scripts/analyze_jira.py (Jira data analysis)
+- resources/scripts/parse_calendar.py (calendar parsing utility)
+- resources/scripts/clean_extracted_text.py (text cleaning utility)
+
 ## Related Notes
 [Will link to zettelkasten permanent notes once created]
