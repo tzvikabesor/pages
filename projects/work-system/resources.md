@@ -9,6 +9,7 @@
 
 ## Questions & Reflections
 - resources/about-questions.md (questions being developed about identity, values, direction)
+- resources/about-questions-answers.md (completed answers to coaching questionnaire)
 - resources/conversations/ (historical conversations for reference)
 
 ## Related Notes

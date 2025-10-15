@@ -21,5 +21,5 @@
 - resources/sola-work/current-vacation-status.md (vacation/availability tracking)
 
 ## Calendar & Planning
-- Context/tzvika.b@sola.security.ics (in Context/ folder - calendar export)
-- Context/tzvika.b@sola.security_parsed.json (in Context/ folder - parsed calendar data)
+- resources/sola-work/calendar-export.ics (Sola calendar export)
+- resources/sola-work/calendar-export-parsed.json (parsed calendar data)
