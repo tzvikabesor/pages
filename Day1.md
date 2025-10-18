@@ -71,7 +71,10 @@ First full day using the new work system!
 - **8:00 AM**: Drop Elisheva at school
 - **8:00-9:00 AM** (1 hour waiting time): **CALLS BLOCK**
   - Fix Dyson (take on the way)
-  - Call construction engineer to evaluate fit (15 min) - CRITICAL!
+  - **Call Gil Rozenbaum (construction engineer) - 20 min** - CRITICAL! Unblocks entire renovation
+    - Ask 8 questions comparing his proposal to Sayag's (see home-renovation roadmap for full list)
+    - Key: Scope coverage, reinforcements, staircase design, supervision details
+    - Reference: Both proposals in resources/Renovation sources/
   - Call designer to inform we're resuming (10 min)
   - Set dentist appointment (5 min)
   - Set dental hygienist appointment (5 min)
