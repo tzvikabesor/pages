@@ -8,6 +8,8 @@ This file tracks all ongoing projects. Each project is a large, open-ended effor
 [-] **Home Renovation** (`projects/home-renovation/`) - Currently blocked on contractor engagement
 [-] **Billion Person Focus Group MVP** (`projects/billion-person-focus-group/`) - POC research to understand cybersecurity practitioners at Sola
 [ ] **Financial Control** (`projects/financial-control/`) - Building system for bill tracking and financial management
+[ ] **Family Evening Routine** (`projects/family-evening-routine/`) - Design sustainable evening routine (feeding, walks with Moran, Elisheva physio/bedtime)
+[ ] **Family Food System** (`projects/family-food-system/`) - Build system for groceries, meal prep, lunch/dinner planning
 
 ## On Hold
 

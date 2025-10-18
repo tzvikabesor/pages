@@ -7,6 +7,8 @@ All captures go here. Process daily.
 [Empty - all items processed]
 
 
+
+
 ## Processing Guidelines
 
 When processing, ask: What is this?

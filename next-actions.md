@@ -8,12 +8,15 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 [ ] Fix Yiftach's wall above bed (home-renovation)
 [ ] Remove books from daughters' room (home-renovation)
 [ ] Ask Moran about status of Elisheva's Hafnayot (family)
+[ ] Fix Dyson - take on the way to work
+[ ] Get clothes back to closet on Saturday 2025-10-19
 
 ## @calls
 [ ] Call designer to inform we're resuming (home-renovation)
 [ ] Call Gil Rosenbaum on Sunday 2025-10-19 after returning from Rome (home-renovation)
 [ ] Set dentist appointment (health)
 [ ] Set dental hygienist appointment (health)
+[ ] Talk to Tamamr (Elisheva's swimming teacher) - what's going on, what's needed, where we're headed (family)
 
 ## @computer
 [ ] Time-block next week in Google Calendar (work)
@@ -23,6 +26,8 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 [ ] Find 'AI builds without asking' onboarding concept and add to onboarding-vision.md (work)
 [ ] Find/write Jira story for 'build canvas from anywhere with CS' and prioritize (work)
 [ ] Check deadline and send Yiftach's cognitive diagnosis documents to school (family)
+[ ] Prepare Sunday task list (first full system day) - review calendar (work-system)
+[ ] Install gemini CLI (work-system)
 
 ## @anywhere (low energy)
 [ ] Work on daily meditation habit using Waking Up app (health)
@@ -36,6 +41,8 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 [-] Home Renovation → See projects/home-renovation/roadmap.md
 [-] Billion Person Focus Group → See projects/billion-person-focus-group/roadmap.md
 [-] Hungary Trip 2025 → See projects/hungary-trip-2025/roadmap.md (waiting for go/no-go)
+[-] Family Evening Routine → See projects/family-evening-routine/roadmap.md
+[-] Family Food System → See projects/family-food-system/roadmap.md
 
 ---
 
