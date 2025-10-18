@@ -7,6 +7,7 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 ## @home
 [ ] Fix Yiftach's wall above bed (home-renovation)
 [ ] Remove books from daughters' room (home-renovation)
+[ ] Ask Moran about status of Elisheva's Hafnayot (family)
 
 ## @calls
 [ ] Call designer to inform we're resuming (home-renovation)
@@ -18,6 +19,10 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 [ ] Time-block next week in Google Calendar (work)
 [ ] Answer questions in about-questions.md (work-system)
 [ ] Gather billion-person-focus-group course materials for knowledge base (billion-person-focus-group)
+[ ] Find saved 'connect and then' onboarding experience and add to onboarding-vision.md (work)
+[ ] Find 'AI builds without asking' onboarding concept and add to onboarding-vision.md (work)
+[ ] Find/write Jira story for 'build canvas from anywhere with CS' and prioritize (work)
+[ ] Check deadline and send Yiftach's cognitive diagnosis documents to school (family)
 
 ## @anywhere (low energy)
 [ ] Work on daily meditation habit using Waking Up app (health)

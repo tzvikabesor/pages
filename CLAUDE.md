@@ -110,6 +110,9 @@ Your daily routine centers on:
 3. **When user asks about a task**: Check next-actions.md first, then project roadmaps (projects/*/roadmap.md) and area tasks (areas/*/tasks.md)
 4. **When adding tasks**: Determine if it's a next action (goes to next-actions.md), project task (projects/*/roadmap.md), or area task (areas/*/tasks.md)
 5. **When potential project emerges with go/no-go blocker**: Create project folder (projects/[name]/), put blocker as waiting-for item in roadmap.md, put all context in notes.md, add to next-actions.md Waiting For section with "since" date and link to project. If go → activate tasks; if no-go → archive to archives/projects/[name]-cancelled/
+6. **People context**: Add to resources/sola-work/people/sola-people.md under person's "Topics to Discuss" section. Only create separate person files if context is extensive (multi-page). Default = single people file for single source of truth.
+7. **Resources vs. Zettelkasten**: Work-in-progress thinking and context-dependent material goes to resources/. Processed, universal, evergreen insights go to zettelkasten/permanent/ as atomic notes. When insight emerges from resource that transcends current context, add to next-actions.md for timeboxed "process to zettelkasten" work.
+8. **When syncs are already scheduled**: Don't create redundant next actions for topics already captured in person's context. The sync agenda lives in their "Topics to Discuss" - that's sufficient.
 
 ## Communication Principles: Data Reliability and Uncertainty
 

@@ -5,6 +5,7 @@
 - resources/sola-work/sola-reference-index.md (index of all Sola docs)
 - resources/sola-work/sola-docs-conversion-note.md (conversion notes)
 - resources/sola-work/work-state-snapshot.md (current work state)
+- resources/sola-work/onboarding-vision.md (unified onboarding thinking - CS getting user to value)
 
 ## People & Relationships
 - resources/sola-work/people/sola-people.md (people at Sola, context, relationships)

@@ -15,6 +15,10 @@
 
 [ ]
 
+## Approval Phase
+
+[ ] Talk to Ishai about talking to Carmel Shama (after plan submission)
+
 ## Execution Phase
 
 [ ]

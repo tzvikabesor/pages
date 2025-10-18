@@ -1,7 +1,8 @@
 # Family Tasks
 
 ## Active
-[To be populated from inbox/next-actions]
+[ ] Send Yiftach's cognitive diagnosis documents to school
+[ ] Manage Elisheva's Hafnayot (extracurriculars)
 
 ## Completed (Last 30 days)
 [x] Create Vatican guide for kids (2025-10-13)

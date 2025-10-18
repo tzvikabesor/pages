@@ -4,7 +4,8 @@ All captures go here. Process daily.
 
 ## To Process
 
-[Empty - Hungary trip processed to projects/hungary-trip-2025/] 
+[Empty - all items processed]
+
 
 ## Processing Guidelines
 

@@ -83,6 +83,7 @@ The challenge: Tzvika has product vision for Sola but hasn't found the right way
 - [ ] **PROJECT**: Canvas2 resource allocation and timeline
 - [ ] **PROJECT**: AI app builder - strategy to deprecate in favor of CS agent handling all building
 - [ ] **PROCESS**: How to balance tactical execution with strategic vision in our 1:1s?
+- [ ] **STRATEGY**: MCP-first thinking and building a ChatGPT app
 
 **Last Synced**: 2025-10-12
 
@@ -213,6 +214,7 @@ Lately working together to expand her role from documentation into conversation 
 - [ ] CS agent conversation design collaboration
 - [ ] Prompt engineering ownership and process
 - [ ] How to balance documentation work with AI voice work
+- [ ] Develop path to syncing with Marketing: what I prepared, SOC 2 thing
 
 **Last Synced**: 2025-10-12
 
