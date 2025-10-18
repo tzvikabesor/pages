@@ -266,6 +266,33 @@ Lately working together to expand her role from documentation into conversation 
 
 ---
 
+## Marketing Team
+
+### Adi Meiri - Head of Growth
+
+**Relationship to Tzvika**: Cross-functional collaboration - Product/Marketing alignment
+
+**Context**:
+- Bi-weekly sync (Sundays 3:00 PM)
+- Product/Marketing coordination
+- Use cases and customer storytelling
+
+**Working Style / Notes**:
+- [To be documented as patterns emerge]
+
+**The Opportunity**:
+Currently, the flow is Product building features → Marketing trying to sell them. Not very effective.
+
+**Better approach**: Marketing comes up with use cases based on customer conversations → Product builds them. This creates customer-driven development and better product-market fit.
+
+**Open Issues / Topics to Discuss**:
+- [ ] SOC 2 discussion (relevant to both technical writer Adi and marketing Adi)
+- [ ] Flip the use cases model: Marketing generates use cases → Product builds them (instead of current reverse flow)
+
+**Last Synced**: [To be updated]
+
+---
+
 ## Other Key People
 
 ### Idan

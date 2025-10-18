@@ -12,6 +12,7 @@ Context-based next actions. Pick by where you are, what you have, and your energ
 [ ] Get clothes back to closet on Saturday 2025-10-19
 
 ## @calls
+[ ] Call construction engineer to evaluate fit (home-renovation)
 [ ] Call designer to inform we're resuming (home-renovation)
 [ ] Call Gil Rosenbaum on Sunday 2025-10-19 after returning from Rome (home-renovation)
 [ ] Set dentist appointment (health)
