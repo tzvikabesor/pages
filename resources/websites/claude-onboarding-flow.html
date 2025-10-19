@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claude Mobile Onboarding Flow</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin-bottom: 0.3em;
+            text-align: center;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 40px;
+        }
+
+        .flow-steps {
+            display: grid;
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .step {
+            display: grid;
+            grid-template-columns: 60px 1fr;
+            gap: 20px;
+            align-items: start;
+        }
+
+        .step-number {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5em;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .step-content {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            border-left: 4px solid #667eea;
+        }
+
+        .step-title {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .step-description {
+            color: #555;
+            margin-bottom: 15px;
+            line-height: 1.8;
+        }
+
+        .screenshot {
+            width: 100%;
+            max-width: 350px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            margin-top: 15px;
+            border: 1px solid #ddd;
+        }
+
+        .key-insight {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin-top: 15px;
+            border-radius: 4px;
+        }
+
+        .key-insight strong {
+            color: #856404;
+        }
+
+        .permission-box {
+            background: #e7f3ff;
+            border: 2px solid #2196F3;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 10px;
+        }
+
+        .permission-box strong {
+            color: #1565C0;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            .step {
+                grid-template-columns: 50px 1fr;
+                gap: 15px;
+            }
+
+            .step-number {
+                width: 50px;
+                height: 50px;
+                font-size: 1.2em;
+            }
+
+            .screenshot {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Claude Mobile Onboarding Flow</h1>
+        <p class="subtitle">Permission-based feature discovery with graceful degradation</p>
+
+        <div class="flow-steps">
+            <!-- Step 1 -->
+            <div class="step">
+                <div class="step-number">1</div>
+                <div class="step-content">
+                    <div class="step-title">User Makes Request</div>
+                    <div class="step-description">
+                        User asks Claude to perform a complex task that requires calendar access:
+                        <em>"Schedule a focus time block over the next work week that avoids conflicts with existing meetings. Show me some nearby coffee shops where I can work – and set a timer for a 90-minute deep work session!"</em>
+                    </div>
+                    <img src="onboarding-screenshots/claude-permission-0.jpeg" alt="Initial request" class="screenshot">
+                    <div class="key-insight">
+                        <strong>Key Insight:</strong> Claude accepts complex, multi-step requests naturally. The user doesn't need to know what permissions are required upfront.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="step">
+                <div class="step-number">2</div>
+                <div class="step-content">
+                    <div class="step-title">Claude Identifies Need & Requests Permission</div>
+                    <div class="step-description">
+                        Claude analyzes the request, checks current time, and realizes it needs calendar access to find focus time slots. A permission dialog appears requesting calendar access.
+                    </div>
+                    <img src="onboarding-screenshots/claude-permission-1.jpeg" alt="Calendar permission request" class="screenshot">
+                    <div class="permission-box">
+                        <strong>Permission Request:</strong> Calendar - Search calendars and events
+                        <br><br>
+                        "Claude will search your calendar for events and appointments."
+                        <br><br>
+                        <strong>Options:</strong> Allow Once | Always Allow | Don't Allow
+                        <br><br>
+                        <em>"Review each action carefully before approving."</em>
+                    </div>
+                    <div class="key-insight">
+                        <strong>Just-in-Time Permission:</strong> Permission requested exactly when needed, with clear context about why.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="step">
+                <div class="step-number">3</div>
+                <div class="step-content">
+                    <div class="step-title">Graceful Degradation on Denial</div>
+                    <div class="step-description">
+                        If user denies calendar access, Claude doesn't fail – it adapts! Shows "Calendar access denied" status and explains what it can still do without the permission.
+                    </div>
+                    <img src="onboarding-screenshots/Claude-permission-2.jpeg" alt="Calendar access denied" class="screenshot">
+                    <div class="key-insight">
+                        <strong>Graceful Handling:</strong> "I see I don't have access to your calendar yet. I can create a focus time block for you, but I'll need you to grant calendar access so I can check for conflicts and add it to your calendar."
+                        <br><br>
+                        Claude continues with what it CAN do:
+                        <ol>
+                            <li>Set up that 90-minute timer for your deep work session</li>
+                            <li>Find nearby coffee shops where you can work</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 4 -->
+            <div class="step">
+                <div class="step-number">4</div>
+                <div class="step-content">
+                    <div class="step-title">Secondary Permission Request</div>
+                    <div class="step-description">
+                        To find nearby coffee shops, Claude needs location access. Another permission dialog appears, this time for location.
+                    </div>
+                    <img src="onboarding-screenshots/Claude-permission-3.jpeg" alt="Location permission request" class="screenshot">
+                    <div class="permission-box">
+                        <strong>Permission Request:</strong> Location - Approximate or precise
+                        <br><br>
+                        "Claude will use your location info to provide context-aware responses."
+                        <br><br>
+                        <strong>Options:</strong> Allow Once | Always Allow | Don't Allow
+                    </div>
+                    <div class="key-insight">
+                        <strong>Progressive Permissions:</strong> Each permission requested separately, as needed for specific features. User maintains granular control.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 5 -->
+            <div class="step">
+                <div class="step-number">5</div>
+                <div class="step-content">
+                    <div class="step-title">Feature Execution with Available Permissions</div>
+                    <div class="step-description">
+                        With the permissions user granted, Claude executes what it can. In this case, it sets a 90-minute timer even without calendar or location access.
+                    </div>
+                    <img src="onboarding-screenshots/Claude-permission-20.jpeg" alt="Timer set successfully" class="screenshot">
+                    <div class="key-insight">
+                        <strong>Always Useful:</strong> Even with denied permissions, Claude completes parts of the task it can do. The timer is set (1:30:00), showing immediate value regardless of permission status.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-top: 60px; padding: 30px; background: #f1f3f5; border-radius: 12px; border-left: 4px solid #667eea;">
+            <h2 style="color: #2c3e50; margin-bottom: 15px;">Design Principles</h2>
+            <ul style="margin-left: 20px; color: #555; line-height: 2;">
+                <li><strong>Just-in-Time Permissions:</strong> Request permissions exactly when needed, with clear context</li>
+                <li><strong>Graceful Degradation:</strong> Never block the entire experience – do what you can with available permissions</li>
+                <li><strong>Progressive Disclosure:</strong> Each permission requested separately, not all upfront</li>
+                <li><strong>Transparent Communication:</strong> Clearly explain what each permission enables and what happens without it</li>
+                <li><strong>User Control:</strong> Always offer "Allow Once" for users who want to try before committing</li>
+                <li><strong>Immediate Value:</strong> Show value quickly, even with denied permissions</li>
+            </ul>
+        </div>
+
+        <div style="margin-top: 40px; text-align: center; color: #666; padding: 20px;">
+            <p><em>Onboarding Flow Documentation</em></p>
+            <p style="margin-top: 10px; font-size: 0.9em;">Screenshots from Claude Mobile (Sonnet 4.5)</p>
+        </div>
+    </div>
+</body>
+</html>
