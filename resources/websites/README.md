@@ -1,36 +1,47 @@
 # Websites
 
-This folder contains source files, documentation, and assets for websites published via GitHub Pages.
+This folder contains all published websites and their source files for GitHub Pages.
 
 ## Published Sites
 
-All published HTML files live in the **root** of the repository (not in this folder) because GitHub Pages serves from root.
+All HTML files live in this folder (`resources/websites/`).
 
 Published sites:
 - `index.html` - Landing page linking to all published content
 - `sally-brief.html` - System brief for Sally (life coach)
 - `castel-gandolfo.html` - Trip guide for Castel Gandolfo
 
-**Live URL**: https://tzvikabesor.github.io/pages/
+**Live URLs**:
+- Main: https://tzvikabesor.github.io/pages/resources/websites/
+- Index: https://tzvikabesor.github.io/pages/resources/websites/index.html
 
-## This Folder's Purpose
+## Folder Structure
 
-Use `resources/websites/` for:
-- Website source files before converting to final HTML
-- Images, assets, and resources used in websites
-- Documentation about websites
-- Draft versions and iterations
+```
+resources/websites/
+├── README.md (this file)
+├── index.html (landing page)
+├── sally-brief.html (published website)
+├── sally-brief-source.md (source markdown)
+├── castel-gandolfo.html (published website)
+└── [future-site]/ (folders for complex sites with assets)
+```
 
 ## Workflow
 
-1. **Create website source**: Work in `resources/websites/[project-name]/`
-2. **Build final HTML**: Generate final HTML file
-3. **Publish**: Copy final HTML to repository root
-4. **Commit and push**: Push to `pages` remote for GitHub Pages deployment
+1. **Create/edit HTML**: Work directly in `resources/websites/`
+2. **Test locally**: Open HTML file in browser
+3. **Commit and push**: `git push pages main:main` to deploy
+
+For sites with source files (markdown, etc.):
+1. Keep source as `[name]-source.md`
+2. Generate HTML as `[name].html`
+3. Both live in this folder
 
 ## GitHub Pages Setup
 
 - Repository: `tzvikabesor/pages.git`
 - Remote: `pages` (separate from `origin`)
-- Serves from: root of repository
+- Serves from: `resources/websites/` folder
 - Push command: `git push pages main:main`
+- `.nojekyll` file in root allows serving from subdirectories
