@@ -113,6 +113,7 @@ Your daily routine centers on:
 6. **People context**: Add to resources/sola-work/people/sola-people.md under person's "Topics to Discuss" section. Only create separate person files if context is extensive (multi-page). Default = single people file for single source of truth.
 7. **Resources vs. Zettelkasten**: Work-in-progress thinking and context-dependent material goes to resources/. Processed, universal, evergreen insights go to zettelkasten/permanent/ as atomic notes. When insight emerges from resource that transcends current context, add to next-actions.md for timeboxed "process to zettelkasten" work.
 8. **When syncs are already scheduled**: Don't create redundant next actions for topics already captured in person's context. The sync agenda lives in their "Topics to Discuss" - that's sufficient.
+9. **Website creation**: When creating websites, source files and documentation go in resources/websites/. Final published HTML files stay in repository root for GitHub Pages. Push to `pages` remote (git@github.com:tzvikabesor/pages.git) for deployment to https://tzvikabesor.github.io/pages/
 
 ## Communication Principles: Data Reliability and Uncertainty
 
